@@ -1,0 +1,221 @@
+Product_ID,Product_Name,Category,Supplier,Unit_Cost_NGN,Unit_Price_NGN,Gross_Margin_Pct,Margin_Band,Reorder_Level,Shelf_Life_Days,Expiry_Risk_Flag,Avg_Monthly_Units
+PRD-001,Paracetamol 500mg (Strip of 10),Analgesics,Emeka Pharma Distributors,45,50,10.0,Low Margin,100,730,Low,280
+PRD-002,Paracetamol 500mg (Bottle 100s),Analgesics,Emeka Pharma Distributors,380,420,9.52,Low Margin,50,730,Low,120
+PRD-003,Ibuprofen 200mg (Strip of 10),Analgesics,Nasco Healthcare Supplies,60,70,14.29,Low Margin,80,730,Low,180
+PRD-004,Ibuprofen 400mg (Strip of 10),Analgesics,Nasco Healthcare Supplies,75,90,16.67,Medium Margin,60,730,Low,140
+PRD-005,Diclofenac 50mg (Strip of 10),Analgesics,Medline Nigeria Ltd,80,100,20.0,Medium Margin,50,730,Low,110
+PRD-006,Aspirin 75mg (Strip of 14),Analgesics,Apex Pharmaceuticals,55,70,21.43,Medium Margin,40,730,Low,90
+PRD-007,Aspirin 300mg (Strip of 10),Analgesics,Apex Pharmaceuticals,60,75,20.0,Medium Margin,30,730,Low,70
+PRD-008,Tramadol 50mg (Strip of 10),Analgesics,Emeka Pharma Distributors,180,250,28.0,Medium Margin,30,730,Low,60
+PRD-009,Codeine Phosphate 30mg (Strip 10),Analgesics,Medline Nigeria Ltd,220,310,29.03,Medium Margin,20,730,Low,40
+PRD-010,Piroxicam 20mg (Strip of 10),Analgesics,Nasco Healthcare Supplies,90,120,25.0,Medium Margin,25,730,Low,55
+PRD-011,Meloxicam 15mg (Strip of 10),Analgesics,Emeka Pharma Distributors,110,150,26.67,Medium Margin,25,730,Low,50
+PRD-012,Naproxen 500mg (Strip of 10),Analgesics,Medline Nigeria Ltd,100,135,25.93,Medium Margin,20,730,Low,45
+PRD-013,Celecoxib 200mg (Strip of 10),Analgesics,Apex Pharmaceuticals,250,350,28.57,Medium Margin,15,730,Low,35
+PRD-014,Amoxicillin 250mg (Strip of 15),Antibiotics,Nasco Healthcare Supplies,120,170,29.41,Medium Margin,60,730,Low,160
+PRD-015,Amoxicillin 500mg (Strip of 15),Antibiotics,Nasco Healthcare Supplies,180,250,28.0,Medium Margin,60,730,Low,140
+PRD-016,Amoxicillin+Clav 625mg (Strip 14),Antibiotics,Emeka Pharma Distributors,650,950,31.58,High Margin,35,730,Low,80
+PRD-017,Azithromycin 500mg (Strip of 6),Antibiotics,Medline Nigeria Ltd,380,580,34.48,High Margin,40,730,Low,100
+PRD-018,Ciprofloxacin 500mg (Strip of 10),Antibiotics,Apex Pharmaceuticals,190,280,32.14,High Margin,50,730,Low,120
+PRD-019,Ciprofloxacin 250mg (Strip of 10),Antibiotics,Apex Pharmaceuticals,130,190,31.58,High Margin,40,730,Low,90
+PRD-020,Metronidazole 400mg (Strip 14),Antibiotics,Nasco Healthcare Supplies,95,140,32.14,High Margin,55,730,Low,130
+PRD-021,Metronidazole 200mg (Strip 14),Antibiotics,Nasco Healthcare Supplies,70,100,30.0,High Margin,45,730,Low,100
+PRD-022,Doxycycline 100mg (Strip of 10),Antibiotics,Emeka Pharma Distributors,110,165,33.33,High Margin,40,730,Low,85
+PRD-023,Erythromycin 500mg (Strip of 10),Antibiotics,Medline Nigeria Ltd,140,210,33.33,High Margin,30,730,Low,70
+PRD-024,Clindamycin 300mg (Strip of 16),Antibiotics,Apex Pharmaceuticals,320,480,33.33,High Margin,25,730,Low,55
+PRD-025,Tetracycline 250mg (Strip 16),Antibiotics,Nasco Healthcare Supplies,85,125,32.0,High Margin,25,730,Low,60
+PRD-026,Clarithromycin 500mg (Strip 14),Antibiotics,Emeka Pharma Distributors,580,850,31.76,High Margin,20,730,Low,45
+PRD-027,Nitrofurantoin 100mg (Strip 14),Antibiotics,Medline Nigeria Ltd,210,310,32.26,High Margin,20,730,Low,40
+PRD-028,Levofloxacin 500mg (Strip 10),Antibiotics,Apex Pharmaceuticals,420,620,32.26,High Margin,15,730,Low,35
+PRD-029,Cefuroxime 500mg (Strip 10),Antibiotics,Emeka Pharma Distributors,680,980,30.61,High Margin,15,730,Low,30
+PRD-030,Trimethoprim 200mg (Strip 14),Antibiotics,Nasco Healthcare Supplies,95,140,32.14,High Margin,20,730,Low,50
+PRD-031,Vitamin C 1000mg (Strip of 10),Vitamins & Supplements,Medline Nigeria Ltd,80,95,15.79,Medium Margin,100,365,Medium,250
+PRD-032,Vitamin C 500mg (Bottle 100s),Vitamins & Supplements,Medline Nigeria Ltd,950,1100,13.64,Low Margin,40,365,Medium,80
+PRD-033,Zinc Sulphate 20mg (Strip 10),Vitamins & Supplements,Apex Pharmaceuticals,70,85,17.65,Medium Margin,70,365,Medium,180
+PRD-034,ORS Sachet (Single),Vitamins & Supplements,Emeka Pharma Distributors,30,35,14.29,Low Margin,150,365,Medium,320
+PRD-035,ORS Sachet (Box of 10),Vitamins & Supplements,Emeka Pharma Distributors,280,320,12.5,Low Margin,40,365,Medium,90
+PRD-036,Multivitamin Tablet (Strip 10),Vitamins & Supplements,Nasco Healthcare Supplies,120,150,20.0,Medium Margin,70,365,Medium,160
+PRD-037,Multivitamin Syrup 200ml,Vitamins & Supplements,Nasco Healthcare Supplies,580,750,22.67,Medium Margin,30,365,Medium,60
+PRD-038,Vitamin B Complex (Strip 10),Vitamins & Supplements,Medline Nigeria Ltd,90,120,25.0,Medium Margin,60,365,Medium,140
+PRD-039,Vitamin B12 1mg (Strip 10),Vitamins & Supplements,Apex Pharmaceuticals,160,210,23.81,Medium Margin,35,365,Medium,80
+PRD-040,Folic Acid 5mg (Strip 14),Vitamins & Supplements,Emeka Pharma Distributors,55,75,26.67,Medium Margin,50,365,Medium,120
+PRD-041,Iron + Folic Acid (Strip 14),Vitamins & Supplements,Nasco Healthcare Supplies,80,110,27.27,Medium Margin,45,365,Medium,100
+PRD-042,Calcium + Vit D3 (Strip 10),Vitamins & Supplements,Medline Nigeria Ltd,180,250,28.0,Medium Margin,40,365,Medium,90
+PRD-043,Omega-3 Fish Oil 1000mg (Strip 10),Vitamins & Supplements,Apex Pharmaceuticals,250,380,34.21,High Margin,30,365,Medium,70
+PRD-044,Vitamin E 400IU (Strip 10),Vitamins & Supplements,Emeka Pharma Distributors,200,280,28.57,Medium Margin,25,365,Medium,60
+PRD-045,Magnesium 250mg (Strip 10),Vitamins & Supplements,Nasco Healthcare Supplies,190,260,26.92,Medium Margin,25,365,Medium,55
+PRD-046,Selenium 200mcg (Strip 10),Vitamins & Supplements,Medline Nigeria Ltd,220,310,29.03,Medium Margin,20,365,Medium,45
+PRD-047,Biotin 5mg (Strip 10),Vitamins & Supplements,Apex Pharmaceuticals,280,400,30.0,High Margin,20,365,Medium,40
+PRD-048,Lisinopril 5mg (Strip of 28),Antihypertensives,Apex Pharmaceuticals,280,480,41.67,High Margin,30,730,Low,65
+PRD-049,Lisinopril 10mg (Strip of 28),Antihypertensives,Apex Pharmaceuticals,320,550,41.82,High Margin,30,730,Low,70
+PRD-050,Lisinopril 20mg (Strip of 28),Antihypertensives,Apex Pharmaceuticals,380,650,41.54,High Margin,25,730,Low,55
+PRD-051,Amlodipine 5mg (Strip of 28),Antihypertensives,Emeka Pharma Distributors,260,450,42.22,High Margin,35,730,Low,80
+PRD-052,Amlodipine 10mg (Strip of 28),Antihypertensives,Emeka Pharma Distributors,310,540,42.59,High Margin,30,730,Low,65
+PRD-053,Losartan 50mg (Strip of 28),Antihypertensives,Nasco Healthcare Supplies,350,600,41.67,High Margin,30,730,Low,70
+PRD-054,Losartan 100mg (Strip of 28),Antihypertensives,Nasco Healthcare Supplies,420,720,41.67,High Margin,25,730,Low,55
+PRD-055,Atenolol 50mg (Strip of 28),Antihypertensives,Medline Nigeria Ltd,220,380,42.11,High Margin,30,730,Low,75
+PRD-056,Atenolol 100mg (Strip of 28),Antihypertensives,Medline Nigeria Ltd,280,480,41.67,High Margin,25,730,Low,55
+PRD-057,Metoprolol 50mg (Strip of 28),Antihypertensives,Apex Pharmaceuticals,310,530,41.51,High Margin,20,730,Low,50
+PRD-058,Metoprolol 100mg (Strip of 28),Antihypertensives,Apex Pharmaceuticals,380,650,41.54,High Margin,20,730,Low,40
+PRD-059,Hydrochlorothiazide 25mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,180,310,41.94,High Margin,25,730,Low,60
+PRD-060,Valsartan 80mg (Strip of 28),Antihypertensives,Nasco Healthcare Supplies,480,820,41.46,High Margin,20,730,Low,45
+PRD-061,Valsartan 160mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,580,980,40.82,High Margin,15,730,Low,35
+PRD-062,Ramipril 5mg (Strip of 28),Antihypertensives,Medline Nigeria Ltd,350,600,41.67,High Margin,20,730,Low,50
+PRD-063,Ramipril 10mg (Strip of 28),Antihypertensives,Medline Nigeria Ltd,420,720,41.67,High Margin,18,730,Low,40
+PRD-064,Olmesartan 20mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,520,880,40.91,High Margin,15,730,Low,35
+PRD-065,Telmisartan 40mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,490,840,41.67,High Margin,15,730,Low,38
+PRD-066,Carvedilol 6.25mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,380,650,41.54,High Margin,12,730,Low,30
+PRD-067,Nifedipine 20mg (Strip of 28),Antihypertensives,Medline Nigeria Ltd,290,500,42.0,High Margin,20,730,Low,45
+PRD-068,Omeprazole 20mg (Strip of 14),Gastrointestinal,Medline Nigeria Ltd,180,320,43.75,High Margin,55,730,Low,140
+PRD-069,Omeprazole 40mg (Strip of 14),Gastrointestinal,Medline Nigeria Ltd,240,420,42.86,High Margin,45,730,Low,100
+PRD-070,Pantoprazole 40mg (Strip of 14),Gastrointestinal,Apex Pharmaceuticals,260,460,43.48,High Margin,40,730,Low,90
+PRD-071,Lansoprazole 30mg (Strip 14),Gastrointestinal,Emeka Pharma Distributors,290,510,43.14,High Margin,35,730,Low,75
+PRD-072,Ranitidine 150mg (Strip 14),Gastrointestinal,Nasco Healthcare Supplies,120,200,40.0,High Margin,45,730,Low,100
+PRD-073,Domperidone 10mg (Strip 10),Gastrointestinal,Medline Nigeria Ltd,90,150,40.0,High Margin,50,730,Low,120
+PRD-074,Metoclopramide 10mg (Strip 10),Gastrointestinal,Apex Pharmaceuticals,70,120,41.67,High Margin,45,730,Low,100
+PRD-075,Loperamide 2mg (Strip 10),Gastrointestinal,Emeka Pharma Distributors,85,145,41.38,High Margin,40,730,Low,90
+PRD-076,Lactulose Syrup 200ml,Gastrointestinal,Nasco Healthcare Supplies,480,820,41.46,High Margin,25,365,Medium,55
+PRD-077,Bisacodyl 5mg (Strip 10),Gastrointestinal,Medline Nigeria Ltd,75,130,42.31,High Margin,35,730,Low,80
+PRD-078,Hyoscine Butylbromide 10mg Strip10,Gastrointestinal,Apex Pharmaceuticals,110,190,42.11,High Margin,30,730,Low,75
+PRD-079,Dicyclomine 20mg (Strip 10),Gastrointestinal,Emeka Pharma Distributors,95,165,42.42,High Margin,30,730,Low,70
+PRD-080,Sucralfate 1g (Strip 10),Gastrointestinal,Nasco Healthcare Supplies,150,260,42.31,High Margin,25,730,Low,60
+PRD-081,Esomeprazole 40mg (Strip 14),Gastrointestinal,Medline Nigeria Ltd,310,550,43.64,High Margin,28,730,Low,65
+PRD-082,Simethicone 40mg (Strip 10),Gastrointestinal,Apex Pharmaceuticals,80,140,42.86,High Margin,35,730,Low,85
+PRD-083,Colpermin Capsules (Strip 10),Gastrointestinal,Emeka Pharma Distributors,380,650,41.54,High Margin,18,365,Medium,40
+PRD-084,Mebeverine 135mg (Strip 15),Gastrointestinal,Nasco Healthcare Supplies,220,380,42.11,High Margin,22,730,Low,50
+PRD-085,Ondansetron 4mg (Strip 10),Gastrointestinal,Medline Nigeria Ltd,280,490,42.86,High Margin,25,730,Low,55
+PRD-086,Ondansetron 8mg (Strip 10),Gastrointestinal,Medline Nigeria Ltd,350,610,42.62,High Margin,18,730,Low,40
+PRD-087,Prochlorperazine 5mg (Strip 14),Gastrointestinal,Apex Pharmaceuticals,130,225,42.22,High Margin,25,730,Low,60
+PRD-088,Fluconazole 150mg (Capsule),Antibiotics,Emeka Pharma Distributors,280,420,33.33,High Margin,18,730,Low,40
+PRD-089,Ketoconazole 200mg (Strip 10),Antibiotics,Nasco Healthcare Supplies,190,285,33.33,High Margin,15,730,Low,35
+PRD-090,Metronidazole Susp 200mg/5ml,Antibiotics,Medline Nigeria Ltd,280,400,30.0,High Margin,20,365,Medium,45
+PRD-091,Amoxicillin Susp 125mg/5ml,Antibiotics,Apex Pharmaceuticals,180,260,30.77,High Margin,25,365,Medium,55
+PRD-092,Cotrimoxazole 480mg (Strip 14),Antibiotics,Emeka Pharma Distributors,80,120,33.33,High Margin,25,730,Low,60
+PRD-093,Cotrimoxazole Susp 240mg/5ml,Antibiotics,Nasco Healthcare Supplies,150,220,31.82,High Margin,18,365,Medium,40
+PRD-094,Nalidixic Acid 500mg (Strip 14),Antibiotics,Medline Nigeria Ltd,140,205,31.71,High Margin,12,730,Low,30
+PRD-095,Tinidazole 500mg (Strip 4),Antibiotics,Apex Pharmaceuticals,120,180,33.33,High Margin,20,730,Low,45
+PRD-096,Flucloxacillin 500mg (Strip 15),Antibiotics,Emeka Pharma Distributors,280,415,32.53,High Margin,15,730,Low,35
+PRD-097,Cefixime 400mg (Strip 10),Antibiotics,Nasco Healthcare Supplies,580,870,33.33,High Margin,12,730,Low,25
+PRD-098,Indomethacin 25mg (Strip 10),Analgesics,Medline Nigeria Ltd,85,125,32.0,High Margin,18,730,Low,40
+PRD-099,Ketorolac 10mg (Strip 10),Analgesics,Apex Pharmaceuticals,130,195,33.33,High Margin,12,730,Low,30
+PRD-100,Mefenamic Acid 500mg (Strip 10),Analgesics,Emeka Pharma Distributors,95,140,32.14,High Margin,22,730,Low,55
+PRD-101,Pentazocine 50mg (Strip 10),Analgesics,Nasco Healthcare Supplies,250,370,32.43,High Margin,10,730,Low,20
+PRD-102,Orphenadrine 35mg (Strip 10),Analgesics,Medline Nigeria Ltd,110,165,33.33,High Margin,12,730,Low,30
+PRD-103,Vitamin A 50000IU (Strip 10),Vitamins & Supplements,Apex Pharmaceuticals,140,195,28.21,Medium Margin,20,365,Medium,50
+PRD-104,Nicotinamide 50mg (Strip 14),Vitamins & Supplements,Emeka Pharma Distributors,75,105,28.57,Medium Margin,25,365,Medium,60
+PRD-105,Pyridoxine 25mg (Strip 14),Vitamins & Supplements,Nasco Healthcare Supplies,70,100,30.0,High Margin,28,365,Medium,65
+PRD-106,Riboflavin 5mg (Strip 14),Vitamins & Supplements,Medline Nigeria Ltd,65,92,29.35,Medium Margin,22,365,Medium,55
+PRD-107,Thiamine 100mg (Strip 14),Vitamins & Supplements,Apex Pharmaceuticals,70,100,30.0,High Margin,25,365,Medium,60
+PRD-108,Spironolactone 25mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,260,450,42.22,High Margin,15,730,Low,35
+PRD-109,Furosemide 40mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,130,225,42.22,High Margin,22,730,Low,55
+PRD-110,Indapamide 2.5mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,310,535,42.06,High Margin,12,730,Low,30
+PRD-111,Bisoprolol 5mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,340,585,41.88,High Margin,14,730,Low,35
+PRD-112,Bisoprolol 10mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,410,705,41.84,High Margin,10,730,Low,25
+PRD-113,Metformin 500mg (Strip of 28),Gastrointestinal,Nasco Healthcare Supplies,180,320,43.75,High Margin,38,730,Low,90
+PRD-114,Metformin 850mg (Strip of 28),Gastrointestinal,Nasco Healthcare Supplies,220,390,43.59,High Margin,30,730,Low,70
+PRD-115,Glibenclamide 5mg (Strip 28),Gastrointestinal,Medline Nigeria Ltd,120,210,42.86,High Margin,20,730,Low,50
+PRD-116,Glimepiride 2mg (Strip 28),Gastrointestinal,Apex Pharmaceuticals,280,490,42.86,High Margin,16,730,Low,40
+PRD-117,Sitagliptin 100mg (Strip 28),Gastrointestinal,Emeka Pharma Distributors,980,1680,41.67,High Margin,10,730,Low,25
+PRD-118,Insulin Regular 10ml Vial,Gastrointestinal,Medline Nigeria Ltd,1800,2800,35.71,High Margin,8,180,High,15
+PRD-119,Insulin Glargine 3ml Cartridge,Gastrointestinal,Medline Nigeria Ltd,3200,5000,36.0,High Margin,5,180,High,10
+PRD-120,Amoxicillin IV 1g Vial,Antibiotics,Apex Pharmaceuticals,480,720,33.33,High Margin,5,180,High,8
+PRD-121,Ceftriaxone IV 1g Vial,Antibiotics,Emeka Pharma Distributors,680,1050,35.24,High Margin,5,180,High,10
+PRD-122,Gentamicin 80mg/2ml Ampoule,Antibiotics,Nasco Healthcare Supplies,320,490,34.69,High Margin,4,180,High,8
+PRD-123,Hydrocortisone 100mg Vial,Analgesics,Medline Nigeria Ltd,580,890,34.83,High Margin,3,180,High,6
+PRD-124,Dexamethasone 8mg/2ml Ampoule,Analgesics,Apex Pharmaceuticals,380,580,34.48,High Margin,4,180,High,8
+PRD-125,Adrenaline 1mg/ml Ampoule,Analgesics,Emeka Pharma Distributors,420,640,34.38,High Margin,3,180,High,5
+PRD-126,Vitamin K 10mg/ml Ampoule,Vitamins & Supplements,Nasco Healthcare Supplies,280,430,34.88,High Margin,3,180,High,6
+PRD-127,Atropine 1mg/ml Ampoule,Analgesics,Medline Nigeria Ltd,350,540,35.19,High Margin,3,180,High,5
+PRD-128,Amoxicillin + Clav Susp 457mg/5ml,Antibiotics,Apex Pharmaceuticals,480,720,33.33,High Margin,12,180,High,25
+PRD-129,Azithromycin Susp 200mg/5ml,Antibiotics,Emeka Pharma Distributors,380,570,33.33,High Margin,10,180,High,20
+PRD-130,Ibuprofen Susp 100mg/5ml,Analgesics,Nasco Healthcare Supplies,220,330,33.33,High Margin,15,180,High,30
+PRD-131,Paracetamol Susp 250mg/5ml,Analgesics,Medline Nigeria Ltd,150,200,25.0,Medium Margin,20,180,High,50
+PRD-132,Chlorphenamine Syrup 2mg/5ml,Analgesics,Apex Pharmaceuticals,180,265,32.08,High Margin,15,180,High,35
+PRD-133,Promethazine Syrup 5mg/5ml 100ml,Analgesics,Emeka Pharma Distributors,220,330,33.33,High Margin,12,180,High,30
+PRD-134,Domperidone Susp 5mg/5ml,Gastrointestinal,Nasco Healthcare Supplies,260,390,33.33,High Margin,10,180,High,25
+PRD-135,Omeprazole Susp 10mg/5ml,Gastrointestinal,Medline Nigeria Ltd,380,570,33.33,High Margin,8,180,High,15
+PRD-136,Zinc Susp 10mg/5ml 60ml,Vitamins & Supplements,Apex Pharmaceuticals,180,260,30.77,High Margin,15,180,High,35
+PRD-137,Multivitamin Drops 15ml,Vitamins & Supplements,Emeka Pharma Distributors,280,410,31.71,High Margin,10,180,High,20
+PRD-138,Clotrimazole Cream 15g,Antibiotics,Nasco Healthcare Supplies,180,300,40.0,High Margin,20,730,Low,45
+PRD-139,Betamethasone Cream 15g,Analgesics,Medline Nigeria Ltd,220,370,40.54,High Margin,15,730,Low,35
+PRD-140,Gentamicin Eye Drops 5ml,Antibiotics,Apex Pharmaceuticals,150,250,40.0,High Margin,12,365,Medium,30
+PRD-141,Chloramphenicol Eye Drops 5ml,Antibiotics,Emeka Pharma Distributors,130,215,39.53,High Margin,15,365,Medium,35
+PRD-142,Diclofenac Gel 30g,Analgesics,Nasco Healthcare Supplies,280,460,39.13,High Margin,18,730,Low,40
+PRD-143,Ketoconazole Shampoo 60ml,Antibiotics,Medline Nigeria Ltd,380,620,38.71,High Margin,10,730,Low,25
+PRD-144,Hydrocortisone Cream 15g,Analgesics,Apex Pharmaceuticals,160,265,39.62,High Margin,18,730,Low,40
+PRD-145,Miconazole Cream 15g,Antibiotics,Emeka Pharma Distributors,190,315,39.68,High Margin,12,730,Low,30
+PRD-146,Albendazole 400mg (Tablet),Antibiotics,Nasco Healthcare Supplies,80,130,38.46,High Margin,22,730,Low,55
+PRD-147,Mebendazole 100mg (Strip 6),Antibiotics,Medline Nigeria Ltd,65,105,38.1,High Margin,25,730,Low,60
+PRD-148,Praziquantel 600mg (Strip 6),Antibiotics,Apex Pharmaceuticals,280,460,39.13,High Margin,8,730,Low,20
+PRD-149,Ivermectin 12mg (Tablet),Antibiotics,Emeka Pharma Distributors,180,295,38.98,High Margin,10,730,Low,25
+PRD-150,Artemether+Lumefantrine (Strip 24),Antibiotics,Nasco Healthcare Supplies,480,780,38.46,High Margin,16,730,Low,40
+PRD-151,Chloroquine 250mg (Strip 10),Antibiotics,Medline Nigeria Ltd,90,145,37.93,High Margin,12,730,Low,30
+PRD-152,Quinine 300mg (Strip 10),Antibiotics,Apex Pharmaceuticals,110,180,38.89,High Margin,10,730,Low,25
+PRD-153,Primaquine 15mg (Strip 14),Antibiotics,Emeka Pharma Distributors,140,225,37.78,High Margin,8,730,Low,18
+PRD-154,Digoxin 0.25mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,180,310,41.94,High Margin,12,730,Low,30
+PRD-155,Amiodarone 200mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,580,990,41.41,High Margin,8,730,Low,20
+PRD-156,Warfarin 5mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,210,360,41.67,High Margin,10,730,Low,25
+PRD-157,Clopidogrel 75mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,380,650,41.54,High Margin,14,730,Low,35
+PRD-158,Rosuvastatin 10mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,420,720,41.67,High Margin,16,730,Low,40
+PRD-159,Atorvastatin 20mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,360,615,41.46,High Margin,18,730,Low,45
+PRD-160,Atorvastatin 40mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,440,755,41.72,High Margin,14,730,Low,35
+PRD-161,Simvastatin 20mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,290,500,42.0,High Margin,15,730,Low,38
+PRD-162,Ezetimibe 10mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,480,820,41.46,High Margin,9,730,Low,22
+PRD-163,Isosorbide Mononitrate 20mg Str28,Antihypertensives,Nasco Healthcare Supplies,230,395,41.77,High Margin,11,730,Low,28
+PRD-164,Enalapril 5mg (Strip of 28),Antihypertensives,Emeka Pharma Distributors,240,415,42.17,High Margin,13,730,Low,32
+PRD-165,Enalapril 10mg (Strip of 28),Antihypertensives,Emeka Pharma Distributors,290,500,42.0,High Margin,11,730,Low,28
+PRD-166,Enalapril 20mg (Strip of 28),Antihypertensives,Nasco Healthcare Supplies,350,600,41.67,High Margin,9,730,Low,22
+PRD-167,Perindopril 4mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,410,700,41.43,High Margin,8,730,Low,20
+PRD-168,Candesartan 8mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,460,790,41.77,High Margin,8,730,Low,18
+PRD-169,Candesartan 16mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,520,890,41.57,High Margin,7,730,Low,15
+PRD-170,Irbesartan 150mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,490,840,41.67,High Margin,7,730,Low,17
+PRD-171,Chlorthalidone 25mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,200,345,42.03,High Margin,10,730,Low,25
+PRD-172,Prazosin 1mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,180,310,41.94,High Margin,9,730,Low,22
+PRD-173,Doxazosin 4mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,380,650,41.54,High Margin,7,730,Low,18
+PRD-174,Nifedipine 10mg Retard (Strip 28),Antihypertensives,Emeka Pharma Distributors,250,430,41.86,High Margin,12,730,Low,30
+PRD-175,Felodipine 5mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,420,720,41.67,High Margin,7,730,Low,16
+PRD-176,Diltiazem 60mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,310,530,41.51,High Margin,8,730,Low,20
+PRD-177,Verapamil 80mg (Strip 28),Antihypertensives,Apex Pharmaceuticals,280,480,41.67,High Margin,7,730,Low,18
+PRD-178,Propranolol 40mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,160,275,41.82,High Margin,14,730,Low,35
+PRD-179,Nebivolol 5mg (Strip 28),Antihypertensives,Nasco Healthcare Supplies,490,840,41.67,High Margin,6,730,Low,14
+PRD-180,Labetalol 100mg (Strip 28),Antihypertensives,Medline Nigeria Ltd,330,565,41.59,High Margin,7,730,Low,16
+PRD-181,Glyceryl Trinitrate 0.5mg Str50,Antihypertensives,Apex Pharmaceuticals,280,480,41.67,High Margin,9,730,Low,22
+PRD-182,Ivabradine 5mg (Strip 28),Antihypertensives,Emeka Pharma Distributors,680,1160,41.38,High Margin,5,730,Low,10
+PRD-183,Sacubitril+Valsartan 50mg Str28,Antihypertensives,Nasco Healthcare Supplies,1800,3000,40.0,High Margin,4,730,Low,8
+PRD-184,Phenytoin 100mg (Strip 28),Gastrointestinal,Medline Nigeria Ltd,160,275,41.82,High Margin,7,730,Low,18
+PRD-185,Carbamazepine 200mg (Strip 28),Gastrointestinal,Apex Pharmaceuticals,180,310,41.94,High Margin,8,730,Low,20
+PRD-186,Valproic Acid 200mg (Strip 30),Gastrointestinal,Emeka Pharma Distributors,220,375,41.33,High Margin,6,730,Low,15
+PRD-187,Levetiracetam 500mg (Strip 30),Gastrointestinal,Nasco Healthcare Supplies,680,1160,41.38,High Margin,5,730,Low,12
+PRD-188,Pregabalin 75mg (Strip 14),Gastrointestinal,Medline Nigeria Ltd,480,820,41.46,High Margin,8,730,Low,20
+PRD-189,Gabapentin 300mg (Strip 14),Gastrointestinal,Apex Pharmaceuticals,380,650,41.54,High Margin,7,730,Low,18
+PRD-190,Tramadol + Paracetamol (Strip 10),Analgesics,Emeka Pharma Distributors,200,290,31.03,High Margin,14,730,Low,35
+PRD-191,Muscle Rub Cream 50g,Analgesics,Medline Nigeria Ltd,350,580,39.66,High Margin,11,730,Low,28
+PRD-192,Voltaren Gel 100g,Analgesics,Apex Pharmaceuticals,580,950,38.95,High Margin,8,730,Low,20
+PRD-193,Antihistamine Loratadine 10mg Str10,Vitamins & Supplements,Emeka Pharma Distributors,80,130,38.46,High Margin,28,730,Low,70
+PRD-194,Cetirizine 10mg (Strip 10),Vitamins & Supplements,Nasco Healthcare Supplies,75,120,37.5,High Margin,30,730,Low,75
+PRD-195,Chlorphenamine 4mg (Strip 10),Vitamins & Supplements,Medline Nigeria Ltd,55,88,37.5,High Margin,32,730,Low,80
+PRD-196,Fexofenadine 120mg (Strip 10),Vitamins & Supplements,Medline Nigeria Ltd,180,290,37.93,High Margin,12,730,Low,30
+PRD-197,Montelukast 10mg (Strip 28),Vitamins & Supplements,Apex Pharmaceuticals,380,615,38.21,High Margin,10,730,Low,25
+PRD-198,Salbutamol Inhaler 100mcg,Vitamins & Supplements,Nasco Healthcare Supplies,680,1100,38.18,High Margin,8,365,Medium,20
+PRD-199,N-Acetylcysteine 600mg (Strip 10),Vitamins & Supplements,Apex Pharmaceuticals,280,455,38.46,High Margin,9,730,Low,22
+PRD-200,Bromhexine 8mg (Strip 20),Vitamins & Supplements,Emeka Pharma Distributors,90,146,38.36,High Margin,14,730,Low,35
+PRD-201,Guaifenesin Syrup 100mg/5ml,Vitamins & Supplements,Nasco Healthcare Supplies,220,357,38.38,High Margin,12,365,Medium,30
+PRD-202,Oral Glucose 25g Sachet,Vitamins & Supplements,Emeka Pharma Distributors,80,116,31.03,High Margin,10,365,Medium,25
+PRD-203,Sodium Bicarbonate 600mg (Strip10),Gastrointestinal,Apex Pharmaceuticals,60,87,31.03,High Margin,12,730,Low,30
+PRD-204,Ursodeoxycholic Acid 250mg Str28,Gastrointestinal,Emeka Pharma Distributors,480,820,41.46,High Margin,5,730,Low,12
+PRD-205,Metronidazole Gel 0.75% 30g,Antibiotics,Medline Nigeria Ltd,250,415,39.76,High Margin,7,730,Low,18
+PRD-206,Povidone Iodine Solution 100ml,Antibiotics,Apex Pharmaceuticals,280,406,31.03,High Margin,9,730,Low,22
+PRD-207,Fluconazole Susp 50mg/5ml,Antibiotics,Emeka Pharma Distributors,380,570,33.33,High Margin,6,365,Medium,15
+PRD-208,Ampicillin 500mg Capsule (Strip15),Antibiotics,Nasco Healthcare Supplies,150,225,33.33,High Margin,12,730,Low,30
+PRD-209,Ofloxacin 400mg (Strip 10),Antibiotics,Medline Nigeria Ltd,280,420,33.33,High Margin,9,730,Low,22
+PRD-210,Sparfloxacin 200mg (Strip 6),Antibiotics,Apex Pharmaceuticals,320,480,33.33,High Margin,7,730,Low,18
+PRD-211,Norfloxacin 400mg (Strip 10),Antibiotics,Emeka Pharma Distributors,220,330,33.33,High Margin,8,730,Low,20
+PRD-212,Furazolidone 100mg (Strip 10),Antibiotics,Nasco Healthcare Supplies,110,165,33.33,High Margin,7,730,Low,18
+PRD-213,Secnidazole 1g (Strip 2),Antibiotics,Medline Nigeria Ltd,180,270,33.33,High Margin,8,730,Low,20
+PRD-214,Ornidazole 500mg (Strip 10),Antibiotics,Apex Pharmaceuticals,150,225,33.33,High Margin,6,730,Low,15
+PRD-215,Doxycycline 200mg (Capsule),Antibiotics,Emeka Pharma Distributors,140,210,33.33,High Margin,5,730,Low,12
+PRD-216,Rifampicin 300mg (Strip 10),Antibiotics,Nasco Healthcare Supplies,280,420,33.33,High Margin,4,730,Low,10
+PRD-217,Isoniazid 300mg (Strip 28),Antibiotics,Medline Nigeria Ltd,120,180,33.33,High Margin,3,730,Low,8
+PRD-218,Pyrazinamide 500mg (Strip 28),Antibiotics,Apex Pharmaceuticals,150,225,33.33,High Margin,3,730,Low,7
+PRD-219,Ethambutol 400mg (Strip 28),Antibiotics,Emeka Pharma Distributors,130,195,33.33,High Margin,3,730,Low,7
+PRD-220,Glibenclamide 2.5mg (Strip 28),Gastrointestinal,Nasco Healthcare Supplies,95,165,42.42,High Margin,14,730,Low,35

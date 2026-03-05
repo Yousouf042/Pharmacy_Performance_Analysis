@@ -1,0 +1,4 @@
+Branch_ID,Branch_Name,Total_Revenue_NGN,Total_COGS_NGN,Total_Gross_Profit_NGN,Gross_Margin_Pct,Total_Transactions,Avg_Transaction_Value_NGN,Estimated_Footfall,Revenue_per_Footfall_NGN,Profit_per_Footfall_NGN,Total_Stock_Value_NGN,At_Risk_Stock_Value_NGN,Top_Revenue_Category,Unique_Products_Sold
+B001,Branch A — Garki,1759991.03,1227470,532521.03,30.26,2165,812.93,3316,530.76,160.59,1571390,7350,Antibiotics,215
+B002,Branch B — Wuse,1818402.84,1256905,561497.84,30.88,2162,841.07,3814,476.77,147.22,1689100,0,Antibiotics,216
+B003,Branch C — Maitama,2468057.61,1845530,622527.61,25.22,3286,751.08,4989,494.7,124.78,1690965,206470,Antibiotics,217

@@ -1,0 +1,661 @@
+Product_ID,Product_Name,Category,Branch_ID,Branch_Name,Stock_Quantity,Reorder_Level,Stock_vs_Reorder,Unit_Cost_NGN,Unit_Price_NGN,Stock_Value_At_Cost_NGN,Stock_Value_At_Price_NGN,Expiry_Date,Days_to_Expiry,Expiry_Risk_Flag,Expiry_Loss_Risk_Status,Supplier
+PRD-001,Paracetamol 500mg (Strip of 10),Analgesics,B001,Branch A — Garki,103,100,3,45,50,4635,5150,2025-11-27,331,Low,SAFE,Emeka Pharma Distributors
+PRD-002,Paracetamol 500mg (Bottle 100s),Analgesics,B001,Branch A — Garki,44,50,-6,380,420,16720,18480,2026-09-01,609,Low,SAFE,Emeka Pharma Distributors
+PRD-003,Ibuprofen 200mg (Strip of 10),Analgesics,B001,Branch A — Garki,136,80,56,60,70,8160,9520,2026-09-12,620,Low,SAFE,Nasco Healthcare Supplies
+PRD-004,Ibuprofen 400mg (Strip of 10),Analgesics,B001,Branch A — Garki,77,60,17,75,90,5775,6930,2026-09-22,630,Low,SAFE,Nasco Healthcare Supplies
+PRD-005,Diclofenac 50mg (Strip of 10),Analgesics,B001,Branch A — Garki,66,50,16,80,100,5280,6600,2025-10-08,281,Low,SAFE,Medline Nigeria Ltd
+PRD-006,Aspirin 75mg (Strip of 14),Analgesics,B001,Branch A — Garki,68,40,28,55,70,3740,4760,2026-12-03,702,Low,SAFE,Apex Pharmaceuticals
+PRD-007,Aspirin 300mg (Strip of 10),Analgesics,B001,Branch A — Garki,45,30,15,60,75,2700,3375,2026-04-27,482,Low,SAFE,Apex Pharmaceuticals
+PRD-008,Tramadol 50mg (Strip of 10),Analgesics,B001,Branch A — Garki,47,30,17,180,250,8460,11750,2026-03-28,452,Low,SAFE,Emeka Pharma Distributors
+PRD-009,Codeine Phosphate 30mg (Strip 10),Analgesics,B001,Branch A — Garki,23,20,3,220,310,5060,7130,2026-03-10,434,Low,SAFE,Medline Nigeria Ltd
+PRD-010,Piroxicam 20mg (Strip of 10),Analgesics,B001,Branch A — Garki,41,25,16,90,120,3690,4920,2026-08-22,599,Low,SAFE,Nasco Healthcare Supplies
+PRD-011,Meloxicam 15mg (Strip of 10),Analgesics,B001,Branch A — Garki,25,25,0,110,150,2750,3750,2026-05-26,511,Low,SAFE,Emeka Pharma Distributors
+PRD-012,Naproxen 500mg (Strip of 10),Analgesics,B001,Branch A — Garki,38,20,18,100,135,3800,5130,2026-02-18,414,Low,SAFE,Medline Nigeria Ltd
+PRD-013,Celecoxib 200mg (Strip of 10),Analgesics,B001,Branch A — Garki,26,15,11,250,350,6500,9100,2026-08-05,582,Low,SAFE,Apex Pharmaceuticals
+PRD-014,Amoxicillin 250mg (Strip of 15),Antibiotics,B001,Branch A — Garki,95,60,35,120,170,11400,16150,2026-01-24,389,Low,SAFE,Nasco Healthcare Supplies
+PRD-015,Amoxicillin 500mg (Strip of 15),Antibiotics,B001,Branch A — Garki,132,60,72,180,250,23760,33000,2026-12-25,724,Low,SAFE,Nasco Healthcare Supplies
+PRD-016,Amoxicillin+Clav 625mg (Strip 14),Antibiotics,B001,Branch A — Garki,40,35,5,650,950,26000,38000,2026-11-04,673,Low,SAFE,Emeka Pharma Distributors
+PRD-017,Azithromycin 500mg (Strip of 6),Antibiotics,B001,Branch A — Garki,69,40,29,380,580,26220,40020,2026-03-23,447,Low,SAFE,Medline Nigeria Ltd
+PRD-018,Ciprofloxacin 500mg (Strip of 10),Antibiotics,B001,Branch A — Garki,115,50,65,190,280,21850,32200,2026-11-15,684,Low,SAFE,Apex Pharmaceuticals
+PRD-019,Ciprofloxacin 250mg (Strip of 10),Antibiotics,B001,Branch A — Garki,50,40,10,130,190,6500,9500,2026-02-06,402,Low,SAFE,Apex Pharmaceuticals
+PRD-020,Metronidazole 400mg (Strip 14),Antibiotics,B001,Branch A — Garki,123,55,68,95,140,11685,17220,2026-04-14,469,Low,SAFE,Nasco Healthcare Supplies
+PRD-021,Metronidazole 200mg (Strip 14),Antibiotics,B001,Branch A — Garki,58,45,13,70,100,4060,5800,2026-12-11,710,Low,SAFE,Nasco Healthcare Supplies
+PRD-022,Doxycycline 100mg (Strip of 10),Antibiotics,B001,Branch A — Garki,46,40,6,110,165,5060,7590,2026-06-14,530,Low,SAFE,Emeka Pharma Distributors
+PRD-023,Erythromycin 500mg (Strip of 10),Antibiotics,B001,Branch A — Garki,45,30,15,140,210,6300,9450,2026-03-25,449,Low,SAFE,Medline Nigeria Ltd
+PRD-024,Clindamycin 300mg (Strip of 16),Antibiotics,B001,Branch A — Garki,24,25,-1,320,480,7680,11520,2025-12-16,350,Low,SAFE,Apex Pharmaceuticals
+PRD-025,Tetracycline 250mg (Strip 16),Antibiotics,B001,Branch A — Garki,27,25,2,85,125,2295,3375,2026-08-25,602,Low,SAFE,Nasco Healthcare Supplies
+PRD-026,Clarithromycin 500mg (Strip 14),Antibiotics,B001,Branch A — Garki,39,20,19,580,850,22620,33150,2026-09-16,624,Low,SAFE,Emeka Pharma Distributors
+PRD-027,Nitrofurantoin 100mg (Strip 14),Antibiotics,B001,Branch A — Garki,39,20,19,210,310,8190,12090,2025-10-11,284,Low,SAFE,Medline Nigeria Ltd
+PRD-028,Levofloxacin 500mg (Strip 10),Antibiotics,B001,Branch A — Garki,36,15,21,420,620,15120,22320,2025-11-11,315,Low,SAFE,Apex Pharmaceuticals
+PRD-029,Cefuroxime 500mg (Strip 10),Antibiotics,B001,Branch A — Garki,20,15,5,680,980,13600,19600,2026-08-03,580,Low,SAFE,Emeka Pharma Distributors
+PRD-030,Trimethoprim 200mg (Strip 14),Antibiotics,B001,Branch A — Garki,20,20,0,95,140,1900,2800,2025-11-02,306,Low,SAFE,Nasco Healthcare Supplies
+PRD-031,Vitamin C 1000mg (Strip of 10),Vitamins & Supplements,B001,Branch A — Garki,229,100,129,80,95,18320,21755,2025-07-13,194,Medium,SAFE,Medline Nigeria Ltd
+PRD-032,Vitamin C 500mg (Bottle 100s),Vitamins & Supplements,B001,Branch A — Garki,77,40,37,950,1100,73150,84700,2025-11-24,328,Medium,SAFE,Medline Nigeria Ltd
+PRD-033,Zinc Sulphate 20mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,171,70,101,70,85,11970,14535,2025-06-12,163,Medium,SAFE,Apex Pharmaceuticals
+PRD-034,ORS Sachet (Single),Vitamins & Supplements,B001,Branch A — Garki,151,150,1,30,35,4530,5285,2025-10-25,298,Medium,SAFE,Emeka Pharma Distributors
+PRD-035,ORS Sachet (Box of 10),Vitamins & Supplements,B001,Branch A — Garki,44,40,4,280,320,12320,14080,2025-09-14,257,Medium,SAFE,Emeka Pharma Distributors
+PRD-036,Multivitamin Tablet (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,119,70,49,120,150,14280,17850,2025-09-09,252,Medium,SAFE,Nasco Healthcare Supplies
+PRD-037,Multivitamin Syrup 200ml,Vitamins & Supplements,B001,Branch A — Garki,57,30,27,580,750,33060,42750,2025-11-22,326,Medium,SAFE,Nasco Healthcare Supplies
+PRD-038,Vitamin B Complex (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,75,60,15,90,120,6750,9000,2025-09-08,251,Medium,SAFE,Medline Nigeria Ltd
+PRD-039,Vitamin B12 1mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,48,35,13,160,210,7680,10080,2025-07-09,190,Medium,SAFE,Apex Pharmaceuticals
+PRD-040,Folic Acid 5mg (Strip 14),Vitamins & Supplements,B001,Branch A — Garki,41,50,-9,55,75,2255,3075,2025-09-19,262,Medium,SAFE,Emeka Pharma Distributors
+PRD-041,Iron + Folic Acid (Strip 14),Vitamins & Supplements,B001,Branch A — Garki,110,45,65,80,110,8800,12100,2025-10-31,304,Medium,SAFE,Nasco Healthcare Supplies
+PRD-042,Calcium + Vit D3 (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,48,40,8,180,250,8640,12000,2025-10-19,292,Medium,SAFE,Medline Nigeria Ltd
+PRD-043,Omega-3 Fish Oil 1000mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,39,30,9,250,380,9750,14820,2025-10-29,302,Medium,SAFE,Apex Pharmaceuticals
+PRD-044,Vitamin E 400IU (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,56,25,31,200,280,11200,15680,2025-07-13,194,Medium,SAFE,Emeka Pharma Distributors
+PRD-045,Magnesium 250mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,20,25,-5,190,260,3800,5200,2025-07-06,187,Medium,SAFE,Nasco Healthcare Supplies
+PRD-046,Selenium 200mcg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,22,20,2,220,310,4840,6820,2025-09-24,267,Medium,SAFE,Medline Nigeria Ltd
+PRD-047,Biotin 5mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,25,20,5,280,400,7000,10000,2025-04-28,118,Medium,SAFE,Apex Pharmaceuticals
+PRD-048,Lisinopril 5mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,51,30,21,280,480,14280,24480,2026-10-27,665,Low,SAFE,Apex Pharmaceuticals
+PRD-049,Lisinopril 10mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,47,30,17,320,550,15040,25850,2026-02-15,411,Low,SAFE,Apex Pharmaceuticals
+PRD-050,Lisinopril 20mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,27,25,2,380,650,10260,17550,2026-02-20,416,Low,SAFE,Apex Pharmaceuticals
+PRD-051,Amlodipine 5mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,47,35,12,260,450,12220,21150,2026-12-28,727,Low,SAFE,Emeka Pharma Distributors
+PRD-052,Amlodipine 10mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,25,30,-5,310,540,7750,13500,2025-12-07,341,Low,SAFE,Emeka Pharma Distributors
+PRD-053,Losartan 50mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,27,30,-3,350,600,9450,16200,2026-10-19,657,Low,SAFE,Nasco Healthcare Supplies
+PRD-054,Losartan 100mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,37,25,12,420,720,15540,26640,2026-09-17,625,Low,SAFE,Nasco Healthcare Supplies
+PRD-055,Atenolol 50mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,59,30,29,220,380,12980,22420,2026-11-24,693,Low,SAFE,Medline Nigeria Ltd
+PRD-056,Atenolol 100mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,21,25,-4,280,480,5880,10080,2025-11-20,324,Low,SAFE,Medline Nigeria Ltd
+PRD-057,Metoprolol 50mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,39,20,19,310,530,12090,20670,2026-06-02,518,Low,SAFE,Apex Pharmaceuticals
+PRD-058,Metoprolol 100mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,39,20,19,380,650,14820,25350,2026-05-28,513,Low,SAFE,Apex Pharmaceuticals
+PRD-059,Hydrochlorothiazide 25mg (Strip 28),Antihypertensives,B001,Branch A — Garki,44,25,19,180,310,7920,13640,2026-11-26,695,Low,SAFE,Emeka Pharma Distributors
+PRD-060,Valsartan 80mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,47,20,27,480,820,22560,38540,2025-08-26,238,Low,SAFE,Nasco Healthcare Supplies
+PRD-061,Valsartan 160mg (Strip 28),Antihypertensives,B001,Branch A — Garki,22,15,7,580,980,12760,21560,2026-04-24,479,Low,SAFE,Nasco Healthcare Supplies
+PRD-062,Ramipril 5mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,28,20,8,350,600,9800,16800,2025-09-01,244,Low,SAFE,Medline Nigeria Ltd
+PRD-063,Ramipril 10mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,28,18,10,420,720,11760,20160,2026-12-18,717,Low,SAFE,Medline Nigeria Ltd
+PRD-064,Olmesartan 20mg (Strip 28),Antihypertensives,B001,Branch A — Garki,13,15,-2,520,880,6760,11440,2026-09-28,636,Low,SAFE,Apex Pharmaceuticals
+PRD-065,Telmisartan 40mg (Strip 28),Antihypertensives,B001,Branch A — Garki,16,15,1,490,840,7840,13440,2026-05-28,513,Low,SAFE,Emeka Pharma Distributors
+PRD-066,Carvedilol 6.25mg (Strip 28),Antihypertensives,B001,Branch A — Garki,17,12,5,380,650,6460,11050,2026-02-01,397,Low,SAFE,Nasco Healthcare Supplies
+PRD-067,Nifedipine 20mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,45,20,25,290,500,13050,22500,2026-12-17,716,Low,SAFE,Medline Nigeria Ltd
+PRD-068,Omeprazole 20mg (Strip of 14),Gastrointestinal,B001,Branch A — Garki,80,55,25,180,320,14400,25600,2026-06-30,546,Low,SAFE,Medline Nigeria Ltd
+PRD-069,Omeprazole 40mg (Strip of 14),Gastrointestinal,B001,Branch A — Garki,78,45,33,240,420,18720,32760,2025-09-15,258,Low,SAFE,Medline Nigeria Ltd
+PRD-070,Pantoprazole 40mg (Strip of 14),Gastrointestinal,B001,Branch A — Garki,34,40,-6,260,460,8840,15640,2026-09-06,614,Low,SAFE,Apex Pharmaceuticals
+PRD-071,Lansoprazole 30mg (Strip 14),Gastrointestinal,B001,Branch A — Garki,51,35,16,290,510,14790,26010,2026-01-11,376,Low,SAFE,Emeka Pharma Distributors
+PRD-072,Ranitidine 150mg (Strip 14),Gastrointestinal,B001,Branch A — Garki,111,45,66,120,200,13320,22200,2025-09-19,262,Low,SAFE,Nasco Healthcare Supplies
+PRD-073,Domperidone 10mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,62,50,12,90,150,5580,9300,2026-10-18,656,Low,SAFE,Medline Nigeria Ltd
+PRD-074,Metoclopramide 10mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,67,45,22,70,120,4690,8040,2026-06-01,517,Low,SAFE,Apex Pharmaceuticals
+PRD-075,Loperamide 2mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,35,40,-5,85,145,2975,5075,2026-11-20,689,Low,SAFE,Emeka Pharma Distributors
+PRD-076,Lactulose Syrup 200ml,Gastrointestinal,B001,Branch A — Garki,25,25,0,480,820,12000,20500,2025-06-13,164,Medium,SAFE,Nasco Healthcare Supplies
+PRD-077,Bisacodyl 5mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,37,35,2,75,130,2775,4810,2026-04-18,473,Low,SAFE,Medline Nigeria Ltd
+PRD-078,Hyoscine Butylbromide 10mg Strip10,Gastrointestinal,B001,Branch A — Garki,65,30,35,110,190,7150,12350,2025-12-21,355,Low,SAFE,Apex Pharmaceuticals
+PRD-079,Dicyclomine 20mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,31,30,1,95,165,2945,5115,2026-03-04,428,Low,SAFE,Emeka Pharma Distributors
+PRD-080,Sucralfate 1g (Strip 10),Gastrointestinal,B001,Branch A — Garki,61,25,36,150,260,9150,15860,2025-08-12,224,Low,SAFE,Nasco Healthcare Supplies
+PRD-081,Esomeprazole 40mg (Strip 14),Gastrointestinal,B001,Branch A — Garki,46,28,18,310,550,14260,25300,2026-07-15,561,Low,SAFE,Medline Nigeria Ltd
+PRD-082,Simethicone 40mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,75,35,40,80,140,6000,10500,2026-08-23,600,Low,SAFE,Apex Pharmaceuticals
+PRD-083,Colpermin Capsules (Strip 10),Gastrointestinal,B001,Branch A — Garki,16,18,-2,380,650,6080,10400,2025-08-15,227,Medium,SAFE,Emeka Pharma Distributors
+PRD-084,Mebeverine 135mg (Strip 15),Gastrointestinal,B001,Branch A — Garki,20,22,-2,220,380,4400,7600,2026-06-19,535,Low,SAFE,Nasco Healthcare Supplies
+PRD-085,Ondansetron 4mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,23,25,-2,280,490,6440,11270,2025-08-31,243,Low,SAFE,Medline Nigeria Ltd
+PRD-086,Ondansetron 8mg (Strip 10),Gastrointestinal,B001,Branch A — Garki,23,18,5,350,610,8050,14030,2026-11-29,698,Low,SAFE,Medline Nigeria Ltd
+PRD-087,Prochlorperazine 5mg (Strip 14),Gastrointestinal,B001,Branch A — Garki,50,25,25,130,225,6500,11250,2025-08-09,221,Low,SAFE,Apex Pharmaceuticals
+PRD-088,Fluconazole 150mg (Capsule),Antibiotics,B001,Branch A — Garki,23,18,5,280,420,6440,9660,2025-08-15,227,Low,SAFE,Emeka Pharma Distributors
+PRD-089,Ketoconazole 200mg (Strip 10),Antibiotics,B001,Branch A — Garki,19,15,4,190,285,3610,5415,2026-07-23,569,Low,SAFE,Nasco Healthcare Supplies
+PRD-090,Metronidazole Susp 200mg/5ml,Antibiotics,B001,Branch A — Garki,41,20,21,280,400,11480,16400,2025-11-10,314,Medium,SAFE,Medline Nigeria Ltd
+PRD-091,Amoxicillin Susp 125mg/5ml,Antibiotics,B001,Branch A — Garki,58,25,33,180,260,10440,15080,2025-07-21,202,Medium,SAFE,Apex Pharmaceuticals
+PRD-092,Cotrimoxazole 480mg (Strip 14),Antibiotics,B001,Branch A — Garki,56,25,31,80,120,4480,6720,2026-08-13,590,Low,SAFE,Emeka Pharma Distributors
+PRD-093,Cotrimoxazole Susp 240mg/5ml,Antibiotics,B001,Branch A — Garki,30,18,12,150,220,4500,6600,2025-12-19,353,Medium,SAFE,Nasco Healthcare Supplies
+PRD-094,Nalidixic Acid 500mg (Strip 14),Antibiotics,B001,Branch A — Garki,28,12,16,140,205,3920,5740,2026-11-08,677,Low,SAFE,Medline Nigeria Ltd
+PRD-095,Tinidazole 500mg (Strip 4),Antibiotics,B001,Branch A — Garki,22,20,2,120,180,2640,3960,2025-11-21,325,Low,SAFE,Apex Pharmaceuticals
+PRD-096,Flucloxacillin 500mg (Strip 15),Antibiotics,B001,Branch A — Garki,34,15,19,280,415,9520,14110,2026-02-26,422,Low,SAFE,Emeka Pharma Distributors
+PRD-097,Cefixime 400mg (Strip 10),Antibiotics,B001,Branch A — Garki,25,12,13,580,870,14500,21750,2026-07-24,570,Low,SAFE,Nasco Healthcare Supplies
+PRD-098,Indomethacin 25mg (Strip 10),Analgesics,B001,Branch A — Garki,37,18,19,85,125,3145,4625,2025-08-20,232,Low,SAFE,Medline Nigeria Ltd
+PRD-099,Ketorolac 10mg (Strip 10),Analgesics,B001,Branch A — Garki,18,12,6,130,195,2340,3510,2026-10-18,656,Low,SAFE,Apex Pharmaceuticals
+PRD-100,Mefenamic Acid 500mg (Strip 10),Analgesics,B001,Branch A — Garki,35,22,13,95,140,3325,4900,2026-07-25,571,Low,SAFE,Emeka Pharma Distributors
+PRD-101,Pentazocine 50mg (Strip 10),Analgesics,B001,Branch A — Garki,20,10,10,250,370,5000,7400,2025-10-07,280,Low,SAFE,Nasco Healthcare Supplies
+PRD-102,Orphenadrine 35mg (Strip 10),Analgesics,B001,Branch A — Garki,12,12,0,110,165,1320,1980,2026-08-12,589,Low,SAFE,Medline Nigeria Ltd
+PRD-103,Vitamin A 50000IU (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,17,20,-3,140,195,2380,3315,2025-07-15,196,Medium,SAFE,Apex Pharmaceuticals
+PRD-104,Nicotinamide 50mg (Strip 14),Vitamins & Supplements,B001,Branch A — Garki,59,25,34,75,105,4425,6195,2025-09-13,256,Medium,SAFE,Emeka Pharma Distributors
+PRD-105,Pyridoxine 25mg (Strip 14),Vitamins & Supplements,B001,Branch A — Garki,65,28,37,70,100,4550,6500,2025-07-07,188,Medium,SAFE,Nasco Healthcare Supplies
+PRD-106,Riboflavin 5mg (Strip 14),Vitamins & Supplements,B001,Branch A — Garki,41,22,19,65,92,2665,3772,2025-07-01,182,Medium,SAFE,Medline Nigeria Ltd
+PRD-107,Thiamine 100mg (Strip 14),Vitamins & Supplements,B001,Branch A — Garki,24,25,-1,70,100,1680,2400,2025-12-28,362,Medium,SAFE,Apex Pharmaceuticals
+PRD-108,Spironolactone 25mg (Strip 28),Antihypertensives,B001,Branch A — Garki,16,15,1,260,450,4160,7200,2025-11-11,315,Low,SAFE,Emeka Pharma Distributors
+PRD-109,Furosemide 40mg (Strip 28),Antihypertensives,B001,Branch A — Garki,49,22,27,130,225,6370,11025,2026-09-20,628,Low,SAFE,Nasco Healthcare Supplies
+PRD-110,Indapamide 2.5mg (Strip 28),Antihypertensives,B001,Branch A — Garki,29,12,17,310,535,8990,15515,2025-09-12,255,Low,SAFE,Medline Nigeria Ltd
+PRD-111,Bisoprolol 5mg (Strip 28),Antihypertensives,B001,Branch A — Garki,13,14,-1,340,585,4420,7605,2026-03-24,448,Low,SAFE,Apex Pharmaceuticals
+PRD-112,Bisoprolol 10mg (Strip 28),Antihypertensives,B001,Branch A — Garki,18,10,8,410,705,7380,12690,2025-08-26,238,Low,SAFE,Emeka Pharma Distributors
+PRD-113,Metformin 500mg (Strip of 28),Gastrointestinal,B001,Branch A — Garki,40,38,2,180,320,7200,12800,2026-08-01,578,Low,SAFE,Nasco Healthcare Supplies
+PRD-114,Metformin 850mg (Strip of 28),Gastrointestinal,B001,Branch A — Garki,58,30,28,220,390,12760,22620,2025-09-21,264,Low,SAFE,Nasco Healthcare Supplies
+PRD-115,Glibenclamide 5mg (Strip 28),Gastrointestinal,B001,Branch A — Garki,47,20,27,120,210,5640,9870,2025-12-15,349,Low,SAFE,Medline Nigeria Ltd
+PRD-116,Glimepiride 2mg (Strip 28),Gastrointestinal,B001,Branch A — Garki,36,16,20,280,490,10080,17640,2026-11-21,690,Low,SAFE,Apex Pharmaceuticals
+PRD-117,Sitagliptin 100mg (Strip 28),Gastrointestinal,B001,Branch A — Garki,16,10,6,980,1680,15680,26880,2026-03-05,429,Low,SAFE,Emeka Pharma Distributors
+PRD-118,Insulin Regular 10ml Vial,Gastrointestinal,B001,Branch A — Garki,10,8,2,1800,2800,18000,28000,2025-06-04,155,High,SAFE,Medline Nigeria Ltd
+PRD-119,Insulin Glargine 3ml Cartridge,Gastrointestinal,B001,Branch A — Garki,5,5,0,3200,5000,16000,25000,2025-05-12,132,High,SAFE,Medline Nigeria Ltd
+PRD-120,Amoxicillin IV 1g Vial,Antibiotics,B001,Branch A — Garki,8,5,3,480,720,3840,5760,2025-03-26,85,High,MONITOR,Apex Pharmaceuticals
+PRD-121,Ceftriaxone IV 1g Vial,Antibiotics,B001,Branch A — Garki,12,5,7,680,1050,8160,12600,2025-06-09,160,High,SAFE,Emeka Pharma Distributors
+PRD-122,Gentamicin 80mg/2ml Ampoule,Antibiotics,B001,Branch A — Garki,3,4,-1,320,490,960,1470,2025-04-17,107,High,SAFE,Nasco Healthcare Supplies
+PRD-123,Hydrocortisone 100mg Vial,Analgesics,B001,Branch A — Garki,4,3,1,580,890,2320,3560,2025-06-14,165,High,SAFE,Medline Nigeria Ltd
+PRD-124,Dexamethasone 8mg/2ml Ampoule,Analgesics,B001,Branch A — Garki,4,4,0,380,580,1520,2320,2025-06-28,179,High,SAFE,Apex Pharmaceuticals
+PRD-125,Adrenaline 1mg/ml Ampoule,Analgesics,B001,Branch A — Garki,3,3,0,420,640,1260,1920,2025-03-25,84,High,MONITOR,Emeka Pharma Distributors
+PRD-126,Vitamin K 10mg/ml Ampoule,Vitamins & Supplements,B001,Branch A — Garki,5,3,2,280,430,1400,2150,2025-03-15,74,High,MONITOR,Nasco Healthcare Supplies
+PRD-127,Atropine 1mg/ml Ampoule,Analgesics,B001,Branch A — Garki,6,3,3,350,540,2100,3240,2025-03-08,67,High,MONITOR,Medline Nigeria Ltd
+PRD-128,Amoxicillin + Clav Susp 457mg/5ml,Antibiotics,B001,Branch A — Garki,29,12,17,480,720,13920,20880,2025-06-13,164,High,SAFE,Apex Pharmaceuticals
+PRD-129,Azithromycin Susp 200mg/5ml,Antibiotics,B001,Branch A — Garki,22,10,12,380,570,8360,12540,2025-04-15,105,High,SAFE,Emeka Pharma Distributors
+PRD-130,Ibuprofen Susp 100mg/5ml,Analgesics,B001,Branch A — Garki,25,15,10,220,330,5500,8250,2025-04-21,111,High,SAFE,Nasco Healthcare Supplies
+PRD-131,Paracetamol Susp 250mg/5ml,Analgesics,B001,Branch A — Garki,49,20,29,150,200,7350,9800,2025-02-27,58,High,AT RISK,Medline Nigeria Ltd
+PRD-132,Chlorphenamine Syrup 2mg/5ml,Analgesics,B001,Branch A — Garki,21,15,6,180,265,3780,5565,2025-06-25,176,High,SAFE,Apex Pharmaceuticals
+PRD-133,Promethazine Syrup 5mg/5ml 100ml,Analgesics,B001,Branch A — Garki,17,12,5,220,330,3740,5610,2025-04-14,104,High,SAFE,Emeka Pharma Distributors
+PRD-134,Domperidone Susp 5mg/5ml,Gastrointestinal,B001,Branch A — Garki,18,10,8,260,390,4680,7020,2025-06-17,168,High,SAFE,Nasco Healthcare Supplies
+PRD-135,Omeprazole Susp 10mg/5ml,Gastrointestinal,B001,Branch A — Garki,10,8,2,380,570,3800,5700,2025-06-22,173,High,SAFE,Medline Nigeria Ltd
+PRD-136,Zinc Susp 10mg/5ml 60ml,Vitamins & Supplements,B001,Branch A — Garki,19,15,4,180,260,3420,4940,2025-06-05,156,High,SAFE,Apex Pharmaceuticals
+PRD-137,Multivitamin Drops 15ml,Vitamins & Supplements,B001,Branch A — Garki,12,10,2,280,410,3360,4920,2025-03-04,63,High,MONITOR,Emeka Pharma Distributors
+PRD-138,Clotrimazole Cream 15g,Antibiotics,B001,Branch A — Garki,43,20,23,180,300,7740,12900,2026-03-24,448,Low,SAFE,Nasco Healthcare Supplies
+PRD-139,Betamethasone Cream 15g,Analgesics,B001,Branch A — Garki,21,15,6,220,370,4620,7770,2026-03-14,438,Low,SAFE,Medline Nigeria Ltd
+PRD-140,Gentamicin Eye Drops 5ml,Antibiotics,B001,Branch A — Garki,22,12,10,150,250,3300,5500,2025-06-25,176,Medium,SAFE,Apex Pharmaceuticals
+PRD-141,Chloramphenicol Eye Drops 5ml,Antibiotics,B001,Branch A — Garki,18,15,3,130,215,2340,3870,2025-08-21,233,Medium,SAFE,Emeka Pharma Distributors
+PRD-142,Diclofenac Gel 30g,Analgesics,B001,Branch A — Garki,15,18,-3,280,460,4200,6900,2026-07-01,547,Low,SAFE,Nasco Healthcare Supplies
+PRD-143,Ketoconazole Shampoo 60ml,Antibiotics,B001,Branch A — Garki,21,10,11,380,620,7980,13020,2026-08-13,590,Low,SAFE,Medline Nigeria Ltd
+PRD-144,Hydrocortisone Cream 15g,Analgesics,B001,Branch A — Garki,28,18,10,160,265,4480,7420,2026-05-22,507,Low,SAFE,Apex Pharmaceuticals
+PRD-145,Miconazole Cream 15g,Antibiotics,B001,Branch A — Garki,10,12,-2,190,315,1900,3150,2026-11-16,685,Low,SAFE,Emeka Pharma Distributors
+PRD-146,Albendazole 400mg (Tablet),Antibiotics,B001,Branch A — Garki,38,22,16,80,130,3040,4940,2026-01-15,380,Low,SAFE,Nasco Healthcare Supplies
+PRD-147,Mebendazole 100mg (Strip 6),Antibiotics,B001,Branch A — Garki,32,25,7,65,105,2080,3360,2026-07-10,556,Low,SAFE,Medline Nigeria Ltd
+PRD-148,Praziquantel 600mg (Strip 6),Antibiotics,B001,Branch A — Garki,14,8,6,280,460,3920,6440,2025-11-10,314,Low,SAFE,Apex Pharmaceuticals
+PRD-149,Ivermectin 12mg (Tablet),Antibiotics,B001,Branch A — Garki,14,10,4,180,295,2520,4130,2026-07-18,564,Low,SAFE,Emeka Pharma Distributors
+PRD-150,Artemether+Lumefantrine (Strip 24),Antibiotics,B001,Branch A — Garki,20,16,4,480,780,9600,15600,2026-04-24,479,Low,SAFE,Nasco Healthcare Supplies
+PRD-151,Chloroquine 250mg (Strip 10),Antibiotics,B001,Branch A — Garki,14,12,2,90,145,1260,2030,2025-09-12,255,Low,SAFE,Medline Nigeria Ltd
+PRD-152,Quinine 300mg (Strip 10),Antibiotics,B001,Branch A — Garki,14,10,4,110,180,1540,2520,2026-08-16,593,Low,SAFE,Apex Pharmaceuticals
+PRD-153,Primaquine 15mg (Strip 14),Antibiotics,B001,Branch A — Garki,9,8,1,140,225,1260,2025,2026-08-27,604,Low,SAFE,Emeka Pharma Distributors
+PRD-154,Digoxin 0.25mg (Strip 28),Antihypertensives,B001,Branch A — Garki,23,12,11,180,310,4140,7130,2026-04-23,478,Low,SAFE,Nasco Healthcare Supplies
+PRD-155,Amiodarone 200mg (Strip 28),Antihypertensives,B001,Branch A — Garki,19,8,11,580,990,11020,18810,2026-11-01,670,Low,SAFE,Medline Nigeria Ltd
+PRD-156,Warfarin 5mg (Strip 28),Antihypertensives,B001,Branch A — Garki,17,10,7,210,360,3570,6120,2026-05-19,504,Low,SAFE,Apex Pharmaceuticals
+PRD-157,Clopidogrel 75mg (Strip 28),Antihypertensives,B001,Branch A — Garki,17,14,3,380,650,6460,11050,2026-11-20,689,Low,SAFE,Emeka Pharma Distributors
+PRD-158,Rosuvastatin 10mg (Strip 28),Antihypertensives,B001,Branch A — Garki,37,16,21,420,720,15540,26640,2026-08-21,598,Low,SAFE,Nasco Healthcare Supplies
+PRD-159,Atorvastatin 20mg (Strip 28),Antihypertensives,B001,Branch A — Garki,18,18,0,360,615,6480,11070,2026-08-01,578,Low,SAFE,Medline Nigeria Ltd
+PRD-160,Atorvastatin 40mg (Strip 28),Antihypertensives,B001,Branch A — Garki,17,14,3,440,755,7480,12835,2025-11-11,315,Low,SAFE,Medline Nigeria Ltd
+PRD-161,Simvastatin 20mg (Strip 28),Antihypertensives,B001,Branch A — Garki,31,15,16,290,500,8990,15500,2026-12-10,709,Low,SAFE,Apex Pharmaceuticals
+PRD-162,Ezetimibe 10mg (Strip 28),Antihypertensives,B001,Branch A — Garki,8,9,-1,480,820,3840,6560,2025-10-29,302,Low,SAFE,Emeka Pharma Distributors
+PRD-163,Isosorbide Mononitrate 20mg Str28,Antihypertensives,B001,Branch A — Garki,12,11,1,230,395,2760,4740,2026-12-12,711,Low,SAFE,Nasco Healthcare Supplies
+PRD-164,Enalapril 5mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,25,13,12,240,415,6000,10375,2026-07-19,565,Low,SAFE,Emeka Pharma Distributors
+PRD-165,Enalapril 10mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,18,11,7,290,500,5220,9000,2026-05-08,493,Low,SAFE,Emeka Pharma Distributors
+PRD-166,Enalapril 20mg (Strip of 28),Antihypertensives,B001,Branch A — Garki,11,9,2,350,600,3850,6600,2025-10-24,297,Low,SAFE,Nasco Healthcare Supplies
+PRD-167,Perindopril 4mg (Strip 28),Antihypertensives,B001,Branch A — Garki,17,8,9,410,700,6970,11900,2026-04-04,459,Low,SAFE,Medline Nigeria Ltd
+PRD-168,Candesartan 8mg (Strip 28),Antihypertensives,B001,Branch A — Garki,9,8,1,460,790,4140,7110,2026-06-26,542,Low,SAFE,Apex Pharmaceuticals
+PRD-169,Candesartan 16mg (Strip 28),Antihypertensives,B001,Branch A — Garki,8,7,1,520,890,4160,7120,2026-04-13,468,Low,SAFE,Apex Pharmaceuticals
+PRD-170,Irbesartan 150mg (Strip 28),Antihypertensives,B001,Branch A — Garki,7,7,0,490,840,3430,5880,2026-08-30,607,Low,SAFE,Emeka Pharma Distributors
+PRD-171,Chlorthalidone 25mg (Strip 28),Antihypertensives,B001,Branch A — Garki,13,10,3,200,345,2600,4485,2026-03-20,444,Low,SAFE,Nasco Healthcare Supplies
+PRD-172,Prazosin 1mg (Strip 28),Antihypertensives,B001,Branch A — Garki,18,9,9,180,310,3240,5580,2026-07-10,556,Low,SAFE,Medline Nigeria Ltd
+PRD-173,Doxazosin 4mg (Strip 28),Antihypertensives,B001,Branch A — Garki,10,7,3,380,650,3800,6500,2025-09-12,255,Low,SAFE,Apex Pharmaceuticals
+PRD-174,Nifedipine 10mg Retard (Strip 28),Antihypertensives,B001,Branch A — Garki,28,12,16,250,430,7000,12040,2025-08-11,223,Low,SAFE,Emeka Pharma Distributors
+PRD-175,Felodipine 5mg (Strip 28),Antihypertensives,B001,Branch A — Garki,14,7,7,420,720,5880,10080,2026-12-03,702,Low,SAFE,Nasco Healthcare Supplies
+PRD-176,Diltiazem 60mg (Strip 28),Antihypertensives,B001,Branch A — Garki,10,8,2,310,530,3100,5300,2025-09-14,257,Low,SAFE,Medline Nigeria Ltd
+PRD-177,Verapamil 80mg (Strip 28),Antihypertensives,B001,Branch A — Garki,8,7,1,280,480,2240,3840,2026-01-14,379,Low,SAFE,Apex Pharmaceuticals
+PRD-178,Propranolol 40mg (Strip 28),Antihypertensives,B001,Branch A — Garki,21,14,7,160,275,3360,5775,2026-05-02,487,Low,SAFE,Emeka Pharma Distributors
+PRD-179,Nebivolol 5mg (Strip 28),Antihypertensives,B001,Branch A — Garki,12,6,6,490,840,5880,10080,2026-11-10,679,Low,SAFE,Nasco Healthcare Supplies
+PRD-180,Labetalol 100mg (Strip 28),Antihypertensives,B001,Branch A — Garki,11,7,4,330,565,3630,6215,2026-08-23,600,Low,SAFE,Medline Nigeria Ltd
+PRD-181,Glyceryl Trinitrate 0.5mg Str50,Antihypertensives,B001,Branch A — Garki,9,9,0,280,480,2520,4320,2026-01-22,387,Low,SAFE,Apex Pharmaceuticals
+PRD-182,Ivabradine 5mg (Strip 28),Antihypertensives,B001,Branch A — Garki,5,5,0,680,1160,3400,5800,2026-07-26,572,Low,SAFE,Emeka Pharma Distributors
+PRD-183,Sacubitril+Valsartan 50mg Str28,Antihypertensives,B001,Branch A — Garki,9,4,5,1800,3000,16200,27000,2026-11-04,673,Low,SAFE,Nasco Healthcare Supplies
+PRD-184,Phenytoin 100mg (Strip 28),Gastrointestinal,B001,Branch A — Garki,9,7,2,160,275,1440,2475,2025-12-04,338,Low,SAFE,Medline Nigeria Ltd
+PRD-185,Carbamazepine 200mg (Strip 28),Gastrointestinal,B001,Branch A — Garki,10,8,2,180,310,1800,3100,2025-12-31,365,Low,SAFE,Apex Pharmaceuticals
+PRD-186,Valproic Acid 200mg (Strip 30),Gastrointestinal,B001,Branch A — Garki,5,6,-1,220,375,1100,1875,2025-10-14,287,Low,SAFE,Emeka Pharma Distributors
+PRD-187,Levetiracetam 500mg (Strip 30),Gastrointestinal,B001,Branch A — Garki,5,5,0,680,1160,3400,5800,2025-08-11,223,Low,SAFE,Nasco Healthcare Supplies
+PRD-188,Pregabalin 75mg (Strip 14),Gastrointestinal,B001,Branch A — Garki,7,8,-1,480,820,3360,5740,2026-07-29,575,Low,SAFE,Medline Nigeria Ltd
+PRD-189,Gabapentin 300mg (Strip 14),Gastrointestinal,B001,Branch A — Garki,12,7,5,380,650,4560,7800,2026-12-03,702,Low,SAFE,Apex Pharmaceuticals
+PRD-190,Tramadol + Paracetamol (Strip 10),Analgesics,B001,Branch A — Garki,20,14,6,200,290,4000,5800,2026-03-22,446,Low,SAFE,Emeka Pharma Distributors
+PRD-191,Muscle Rub Cream 50g,Analgesics,B001,Branch A — Garki,10,11,-1,350,580,3500,5800,2025-10-23,296,Low,SAFE,Medline Nigeria Ltd
+PRD-192,Voltaren Gel 100g,Analgesics,B001,Branch A — Garki,15,8,7,580,950,8700,14250,2025-12-05,339,Low,SAFE,Apex Pharmaceuticals
+PRD-193,Antihistamine Loratadine 10mg Str10,Vitamins & Supplements,B001,Branch A — Garki,59,28,31,80,130,4720,7670,2026-08-02,579,Low,SAFE,Emeka Pharma Distributors
+PRD-194,Cetirizine 10mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,62,30,32,75,120,4650,7440,2026-07-25,571,Low,SAFE,Nasco Healthcare Supplies
+PRD-195,Chlorphenamine 4mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,64,32,32,55,88,3520,5632,2026-05-13,498,Low,SAFE,Medline Nigeria Ltd
+PRD-196,Fexofenadine 120mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,23,12,11,180,290,4140,6670,2026-05-02,487,Low,SAFE,Medline Nigeria Ltd
+PRD-197,Montelukast 10mg (Strip 28),Vitamins & Supplements,B001,Branch A — Garki,11,10,1,380,615,4180,6765,2025-11-26,330,Low,SAFE,Apex Pharmaceuticals
+PRD-198,Salbutamol Inhaler 100mcg,Vitamins & Supplements,B001,Branch A — Garki,11,8,3,680,1100,7480,12100,2025-04-23,113,Medium,SAFE,Nasco Healthcare Supplies
+PRD-199,N-Acetylcysteine 600mg (Strip 10),Vitamins & Supplements,B001,Branch A — Garki,20,9,11,280,455,5600,9100,2025-12-22,356,Low,SAFE,Apex Pharmaceuticals
+PRD-200,Bromhexine 8mg (Strip 20),Vitamins & Supplements,B001,Branch A — Garki,12,14,-2,90,146,1080,1752,2026-03-11,435,Low,SAFE,Emeka Pharma Distributors
+PRD-201,Guaifenesin Syrup 100mg/5ml,Vitamins & Supplements,B001,Branch A — Garki,26,12,14,220,357,5720,9282,2025-07-30,211,Medium,SAFE,Nasco Healthcare Supplies
+PRD-202,Oral Glucose 25g Sachet,Vitamins & Supplements,B001,Branch A — Garki,12,10,2,80,116,960,1392,2025-09-05,248,Medium,SAFE,Emeka Pharma Distributors
+PRD-203,Sodium Bicarbonate 600mg (Strip10),Gastrointestinal,B001,Branch A — Garki,21,12,9,60,87,1260,1827,2026-08-29,606,Low,SAFE,Apex Pharmaceuticals
+PRD-204,Ursodeoxycholic Acid 250mg Str28,Gastrointestinal,B001,Branch A — Garki,10,5,5,480,820,4800,8200,2026-08-02,579,Low,SAFE,Emeka Pharma Distributors
+PRD-205,Metronidazole Gel 0.75% 30g,Antibiotics,B001,Branch A — Garki,5,7,-2,250,415,1250,2075,2025-08-08,220,Low,SAFE,Medline Nigeria Ltd
+PRD-206,Povidone Iodine Solution 100ml,Antibiotics,B001,Branch A — Garki,22,9,13,280,406,6160,8932,2025-12-20,354,Low,SAFE,Apex Pharmaceuticals
+PRD-207,Fluconazole Susp 50mg/5ml,Antibiotics,B001,Branch A — Garki,7,6,1,380,570,2660,3990,2025-10-23,296,Medium,SAFE,Emeka Pharma Distributors
+PRD-208,Ampicillin 500mg Capsule (Strip15),Antibiotics,B001,Branch A — Garki,21,12,9,150,225,3150,4725,2026-03-31,455,Low,SAFE,Nasco Healthcare Supplies
+PRD-209,Ofloxacin 400mg (Strip 10),Antibiotics,B001,Branch A — Garki,8,9,-1,280,420,2240,3360,2025-09-17,260,Low,SAFE,Medline Nigeria Ltd
+PRD-210,Sparfloxacin 200mg (Strip 6),Antibiotics,B001,Branch A — Garki,13,7,6,320,480,4160,6240,2025-10-09,282,Low,SAFE,Apex Pharmaceuticals
+PRD-211,Norfloxacin 400mg (Strip 10),Antibiotics,B001,Branch A — Garki,12,8,4,220,330,2640,3960,2026-08-18,595,Low,SAFE,Emeka Pharma Distributors
+PRD-212,Furazolidone 100mg (Strip 10),Antibiotics,B001,Branch A — Garki,16,7,9,110,165,1760,2640,2026-10-27,665,Low,SAFE,Nasco Healthcare Supplies
+PRD-213,Secnidazole 1g (Strip 2),Antibiotics,B001,Branch A — Garki,18,8,10,180,270,3240,4860,2026-02-06,402,Low,SAFE,Medline Nigeria Ltd
+PRD-214,Ornidazole 500mg (Strip 10),Antibiotics,B001,Branch A — Garki,14,6,8,150,225,2100,3150,2026-07-22,568,Low,SAFE,Apex Pharmaceuticals
+PRD-215,Doxycycline 200mg (Capsule),Antibiotics,B001,Branch A — Garki,11,5,6,140,210,1540,2310,2025-09-21,264,Low,SAFE,Emeka Pharma Distributors
+PRD-216,Rifampicin 300mg (Strip 10),Antibiotics,B001,Branch A — Garki,3,4,-1,280,420,840,1260,2026-03-14,438,Low,SAFE,Nasco Healthcare Supplies
+PRD-217,Isoniazid 300mg (Strip 28),Antibiotics,B001,Branch A — Garki,6,3,3,120,180,720,1080,2026-03-03,427,Low,SAFE,Medline Nigeria Ltd
+PRD-218,Pyrazinamide 500mg (Strip 28),Antibiotics,B001,Branch A — Garki,6,3,3,150,225,900,1350,2025-12-04,338,Low,SAFE,Apex Pharmaceuticals
+PRD-219,Ethambutol 400mg (Strip 28),Antibiotics,B001,Branch A — Garki,2,3,-1,130,195,260,390,2026-08-31,608,Low,SAFE,Emeka Pharma Distributors
+PRD-220,Glibenclamide 2.5mg (Strip 28),Gastrointestinal,B001,Branch A — Garki,26,14,12,95,165,2470,4290,2026-03-19,443,Low,SAFE,Nasco Healthcare Supplies
+PRD-001,Paracetamol 500mg (Strip of 10),Analgesics,B002,Branch B — Wuse,223,100,123,45,50,10035,11150,2026-10-02,640,Low,SAFE,Emeka Pharma Distributors
+PRD-002,Paracetamol 500mg (Bottle 100s),Analgesics,B002,Branch B — Wuse,67,50,17,380,420,25460,28140,2026-10-09,647,Low,SAFE,Emeka Pharma Distributors
+PRD-003,Ibuprofen 200mg (Strip of 10),Analgesics,B002,Branch B — Wuse,110,80,30,60,70,6600,7700,2026-06-20,536,Low,SAFE,Nasco Healthcare Supplies
+PRD-004,Ibuprofen 400mg (Strip of 10),Analgesics,B002,Branch B — Wuse,67,60,7,75,90,5025,6030,2025-12-20,354,Low,SAFE,Nasco Healthcare Supplies
+PRD-005,Diclofenac 50mg (Strip of 10),Analgesics,B002,Branch B — Wuse,78,50,28,80,100,6240,7800,2026-01-14,379,Low,SAFE,Medline Nigeria Ltd
+PRD-006,Aspirin 75mg (Strip of 14),Analgesics,B002,Branch B — Wuse,40,40,0,55,70,2200,2800,2026-04-10,465,Low,SAFE,Apex Pharmaceuticals
+PRD-007,Aspirin 300mg (Strip of 10),Analgesics,B002,Branch B — Wuse,50,30,20,60,75,3000,3750,2025-10-27,300,Low,SAFE,Apex Pharmaceuticals
+PRD-008,Tramadol 50mg (Strip of 10),Analgesics,B002,Branch B — Wuse,32,30,2,180,250,5760,8000,2025-08-21,233,Low,SAFE,Emeka Pharma Distributors
+PRD-009,Codeine Phosphate 30mg (Strip 10),Analgesics,B002,Branch B — Wuse,17,20,-3,220,310,3740,5270,2026-02-06,402,Low,SAFE,Medline Nigeria Ltd
+PRD-010,Piroxicam 20mg (Strip of 10),Analgesics,B002,Branch B — Wuse,26,25,1,90,120,2340,3120,2026-11-19,688,Low,SAFE,Nasco Healthcare Supplies
+PRD-011,Meloxicam 15mg (Strip of 10),Analgesics,B002,Branch B — Wuse,28,25,3,110,150,3080,4200,2025-09-09,252,Low,SAFE,Emeka Pharma Distributors
+PRD-012,Naproxen 500mg (Strip of 10),Analgesics,B002,Branch B — Wuse,29,20,9,100,135,2900,3915,2025-11-13,317,Low,SAFE,Medline Nigeria Ltd
+PRD-013,Celecoxib 200mg (Strip of 10),Analgesics,B002,Branch B — Wuse,13,15,-2,250,350,3250,4550,2026-08-26,603,Low,SAFE,Apex Pharmaceuticals
+PRD-014,Amoxicillin 250mg (Strip of 15),Antibiotics,B002,Branch B — Wuse,104,60,44,120,170,12480,17680,2025-09-05,248,Low,SAFE,Nasco Healthcare Supplies
+PRD-015,Amoxicillin 500mg (Strip of 15),Antibiotics,B002,Branch B — Wuse,95,60,35,180,250,17100,23750,2025-08-26,238,Low,SAFE,Nasco Healthcare Supplies
+PRD-016,Amoxicillin+Clav 625mg (Strip 14),Antibiotics,B002,Branch B — Wuse,49,35,14,650,950,31850,46550,2026-02-08,404,Low,SAFE,Emeka Pharma Distributors
+PRD-017,Azithromycin 500mg (Strip of 6),Antibiotics,B002,Branch B — Wuse,87,40,47,380,580,33060,50460,2026-08-17,594,Low,SAFE,Medline Nigeria Ltd
+PRD-018,Ciprofloxacin 500mg (Strip of 10),Antibiotics,B002,Branch B — Wuse,116,50,66,190,280,22040,32480,2025-10-17,290,Low,SAFE,Apex Pharmaceuticals
+PRD-019,Ciprofloxacin 250mg (Strip of 10),Antibiotics,B002,Branch B — Wuse,68,40,28,130,190,8840,12920,2025-08-17,229,Low,SAFE,Apex Pharmaceuticals
+PRD-020,Metronidazole 400mg (Strip 14),Antibiotics,B002,Branch B — Wuse,121,55,66,95,140,11495,16940,2026-02-10,406,Low,SAFE,Nasco Healthcare Supplies
+PRD-021,Metronidazole 200mg (Strip 14),Antibiotics,B002,Branch B — Wuse,41,45,-4,70,100,2870,4100,2026-01-19,384,Low,SAFE,Nasco Healthcare Supplies
+PRD-022,Doxycycline 100mg (Strip of 10),Antibiotics,B002,Branch B — Wuse,51,40,11,110,165,5610,8415,2026-09-02,610,Low,SAFE,Emeka Pharma Distributors
+PRD-023,Erythromycin 500mg (Strip of 10),Antibiotics,B002,Branch B — Wuse,30,30,0,140,210,4200,6300,2026-05-18,503,Low,SAFE,Medline Nigeria Ltd
+PRD-024,Clindamycin 300mg (Strip of 16),Antibiotics,B002,Branch B — Wuse,53,25,28,320,480,16960,25440,2026-08-19,596,Low,SAFE,Apex Pharmaceuticals
+PRD-025,Tetracycline 250mg (Strip 16),Antibiotics,B002,Branch B — Wuse,59,25,34,85,125,5015,7375,2025-08-07,219,Low,SAFE,Nasco Healthcare Supplies
+PRD-026,Clarithromycin 500mg (Strip 14),Antibiotics,B002,Branch B — Wuse,28,20,8,580,850,16240,23800,2026-02-11,407,Low,SAFE,Emeka Pharma Distributors
+PRD-027,Nitrofurantoin 100mg (Strip 14),Antibiotics,B002,Branch B — Wuse,17,20,-3,210,310,3570,5270,2026-09-28,636,Low,SAFE,Medline Nigeria Ltd
+PRD-028,Levofloxacin 500mg (Strip 10),Antibiotics,B002,Branch B — Wuse,29,15,14,420,620,12180,17980,2026-05-03,488,Low,SAFE,Apex Pharmaceuticals
+PRD-029,Cefuroxime 500mg (Strip 10),Antibiotics,B002,Branch B — Wuse,22,15,7,680,980,14960,21560,2026-11-07,676,Low,SAFE,Emeka Pharma Distributors
+PRD-030,Trimethoprim 200mg (Strip 14),Antibiotics,B002,Branch B — Wuse,24,20,4,95,140,2280,3360,2026-01-24,389,Low,SAFE,Nasco Healthcare Supplies
+PRD-031,Vitamin C 1000mg (Strip of 10),Vitamins & Supplements,B002,Branch B — Wuse,241,100,141,80,95,19280,22895,2025-05-06,126,Medium,SAFE,Medline Nigeria Ltd
+PRD-032,Vitamin C 500mg (Bottle 100s),Vitamins & Supplements,B002,Branch B — Wuse,85,40,45,950,1100,80750,93500,2025-10-19,292,Medium,SAFE,Medline Nigeria Ltd
+PRD-033,Zinc Sulphate 20mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,163,70,93,70,85,11410,13855,2025-05-12,132,Medium,SAFE,Apex Pharmaceuticals
+PRD-034,ORS Sachet (Single),Vitamins & Supplements,B002,Branch B — Wuse,367,150,217,30,35,11010,12845,2025-04-26,116,Medium,SAFE,Emeka Pharma Distributors
+PRD-035,ORS Sachet (Box of 10),Vitamins & Supplements,B002,Branch B — Wuse,54,40,14,280,320,15120,17280,2025-05-11,131,Medium,SAFE,Emeka Pharma Distributors
+PRD-036,Multivitamin Tablet (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,62,70,-8,120,150,7440,9300,2025-12-21,355,Medium,SAFE,Nasco Healthcare Supplies
+PRD-037,Multivitamin Syrup 200ml,Vitamins & Supplements,B002,Branch B — Wuse,60,30,30,580,750,34800,45000,2025-08-26,238,Medium,SAFE,Nasco Healthcare Supplies
+PRD-038,Vitamin B Complex (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,59,60,-1,90,120,5310,7080,2025-08-31,243,Medium,SAFE,Medline Nigeria Ltd
+PRD-039,Vitamin B12 1mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,47,35,12,160,210,7520,9870,2025-06-27,178,Medium,SAFE,Apex Pharmaceuticals
+PRD-040,Folic Acid 5mg (Strip 14),Vitamins & Supplements,B002,Branch B — Wuse,92,50,42,55,75,5060,6900,2025-11-07,311,Medium,SAFE,Emeka Pharma Distributors
+PRD-041,Iron + Folic Acid (Strip 14),Vitamins & Supplements,B002,Branch B — Wuse,69,45,24,80,110,5520,7590,2025-08-23,235,Medium,SAFE,Nasco Healthcare Supplies
+PRD-042,Calcium + Vit D3 (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,76,40,36,180,250,13680,19000,2025-05-21,141,Medium,SAFE,Medline Nigeria Ltd
+PRD-043,Omega-3 Fish Oil 1000mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,66,30,36,250,380,16500,25080,2025-11-19,323,Medium,SAFE,Apex Pharmaceuticals
+PRD-044,Vitamin E 400IU (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,42,25,17,200,280,8400,11760,2025-06-06,157,Medium,SAFE,Emeka Pharma Distributors
+PRD-045,Magnesium 250mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,41,25,16,190,260,7790,10660,2025-05-16,136,Medium,SAFE,Nasco Healthcare Supplies
+PRD-046,Selenium 200mcg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,41,20,21,220,310,9020,12710,2025-07-07,188,Medium,SAFE,Medline Nigeria Ltd
+PRD-047,Biotin 5mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,26,20,6,280,400,7280,10400,2025-12-16,350,Medium,SAFE,Apex Pharmaceuticals
+PRD-048,Lisinopril 5mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,45,30,15,280,480,12600,21600,2026-09-14,622,Low,SAFE,Apex Pharmaceuticals
+PRD-049,Lisinopril 10mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,56,30,26,320,550,17920,30800,2026-01-15,380,Low,SAFE,Apex Pharmaceuticals
+PRD-050,Lisinopril 20mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,25,25,0,380,650,9500,16250,2026-09-18,626,Low,SAFE,Apex Pharmaceuticals
+PRD-051,Amlodipine 5mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,73,35,38,260,450,18980,32850,2025-11-01,305,Low,SAFE,Emeka Pharma Distributors
+PRD-052,Amlodipine 10mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,36,30,6,310,540,11160,19440,2026-09-02,610,Low,SAFE,Emeka Pharma Distributors
+PRD-053,Losartan 50mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,74,30,44,350,600,25900,44400,2026-10-12,650,Low,SAFE,Nasco Healthcare Supplies
+PRD-054,Losartan 100mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,49,25,24,420,720,20580,35280,2026-11-17,686,Low,SAFE,Nasco Healthcare Supplies
+PRD-055,Atenolol 50mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,38,30,8,220,380,8360,14440,2025-08-11,223,Low,SAFE,Medline Nigeria Ltd
+PRD-056,Atenolol 100mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,33,25,8,280,480,9240,15840,2026-12-16,715,Low,SAFE,Medline Nigeria Ltd
+PRD-057,Metoprolol 50mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,45,20,25,310,530,13950,23850,2025-09-01,244,Low,SAFE,Apex Pharmaceuticals
+PRD-058,Metoprolol 100mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,33,20,13,380,650,12540,21450,2025-09-16,259,Low,SAFE,Apex Pharmaceuticals
+PRD-059,Hydrochlorothiazide 25mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,53,25,28,180,310,9540,16430,2026-02-13,409,Low,SAFE,Emeka Pharma Distributors
+PRD-060,Valsartan 80mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,47,20,27,480,820,22560,38540,2025-09-03,246,Low,SAFE,Nasco Healthcare Supplies
+PRD-061,Valsartan 160mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,30,15,15,580,980,17400,29400,2026-02-27,423,Low,SAFE,Nasco Healthcare Supplies
+PRD-062,Ramipril 5mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,25,20,5,350,600,8750,15000,2026-04-28,483,Low,SAFE,Medline Nigeria Ltd
+PRD-063,Ramipril 10mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,29,18,11,420,720,12180,20880,2026-02-01,397,Low,SAFE,Medline Nigeria Ltd
+PRD-064,Olmesartan 20mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,28,15,13,520,880,14560,24640,2026-07-10,556,Low,SAFE,Apex Pharmaceuticals
+PRD-065,Telmisartan 40mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,13,15,-2,490,840,6370,10920,2026-06-07,523,Low,SAFE,Emeka Pharma Distributors
+PRD-066,Carvedilol 6.25mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,24,12,12,380,650,9120,15600,2025-09-14,257,Low,SAFE,Nasco Healthcare Supplies
+PRD-067,Nifedipine 20mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,38,20,18,290,500,11020,19000,2026-09-21,629,Low,SAFE,Medline Nigeria Ltd
+PRD-068,Omeprazole 20mg (Strip of 14),Gastrointestinal,B002,Branch B — Wuse,121,55,66,180,320,21780,38720,2025-08-28,240,Low,SAFE,Medline Nigeria Ltd
+PRD-069,Omeprazole 40mg (Strip of 14),Gastrointestinal,B002,Branch B — Wuse,89,45,44,240,420,21360,37380,2026-09-18,626,Low,SAFE,Medline Nigeria Ltd
+PRD-070,Pantoprazole 40mg (Strip of 14),Gastrointestinal,B002,Branch B — Wuse,58,40,18,260,460,15080,26680,2026-05-11,496,Low,SAFE,Apex Pharmaceuticals
+PRD-071,Lansoprazole 30mg (Strip 14),Gastrointestinal,B002,Branch B — Wuse,43,35,8,290,510,12470,21930,2026-01-12,377,Low,SAFE,Emeka Pharma Distributors
+PRD-072,Ranitidine 150mg (Strip 14),Gastrointestinal,B002,Branch B — Wuse,74,45,29,120,200,8880,14800,2025-10-23,296,Low,SAFE,Nasco Healthcare Supplies
+PRD-073,Domperidone 10mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,71,50,21,90,150,6390,10650,2026-01-08,373,Low,SAFE,Medline Nigeria Ltd
+PRD-074,Metoclopramide 10mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,54,45,9,70,120,3780,6480,2026-04-11,466,Low,SAFE,Apex Pharmaceuticals
+PRD-075,Loperamide 2mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,89,40,49,85,145,7565,12905,2025-12-08,342,Low,SAFE,Emeka Pharma Distributors
+PRD-076,Lactulose Syrup 200ml,Gastrointestinal,B002,Branch B — Wuse,48,25,23,480,820,23040,39360,2025-06-23,174,Medium,SAFE,Nasco Healthcare Supplies
+PRD-077,Bisacodyl 5mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,36,35,1,75,130,2700,4680,2026-12-02,701,Low,SAFE,Medline Nigeria Ltd
+PRD-078,Hyoscine Butylbromide 10mg Strip10,Gastrointestinal,B002,Branch B — Wuse,56,30,26,110,190,6160,10640,2025-09-29,272,Low,SAFE,Apex Pharmaceuticals
+PRD-079,Dicyclomine 20mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,56,30,26,95,165,5320,9240,2025-11-05,309,Low,SAFE,Emeka Pharma Distributors
+PRD-080,Sucralfate 1g (Strip 10),Gastrointestinal,B002,Branch B — Wuse,57,25,32,150,260,8550,14820,2025-12-11,345,Low,SAFE,Nasco Healthcare Supplies
+PRD-081,Esomeprazole 40mg (Strip 14),Gastrointestinal,B002,Branch B — Wuse,60,28,32,310,550,18600,33000,2025-11-16,320,Low,SAFE,Medline Nigeria Ltd
+PRD-082,Simethicone 40mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,61,35,26,80,140,4880,8540,2026-11-16,685,Low,SAFE,Apex Pharmaceuticals
+PRD-083,Colpermin Capsules (Strip 10),Gastrointestinal,B002,Branch B — Wuse,23,18,5,380,650,8740,14950,2025-05-10,130,Medium,SAFE,Emeka Pharma Distributors
+PRD-084,Mebeverine 135mg (Strip 15),Gastrointestinal,B002,Branch B — Wuse,38,22,16,220,380,8360,14440,2025-11-03,307,Low,SAFE,Nasco Healthcare Supplies
+PRD-085,Ondansetron 4mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,50,25,25,280,490,14000,24500,2026-06-04,520,Low,SAFE,Medline Nigeria Ltd
+PRD-086,Ondansetron 8mg (Strip 10),Gastrointestinal,B002,Branch B — Wuse,24,18,6,350,610,8400,14640,2026-08-02,579,Low,SAFE,Medline Nigeria Ltd
+PRD-087,Prochlorperazine 5mg (Strip 14),Gastrointestinal,B002,Branch B — Wuse,30,25,5,130,225,3900,6750,2026-11-18,687,Low,SAFE,Apex Pharmaceuticals
+PRD-088,Fluconazole 150mg (Capsule),Antibiotics,B002,Branch B — Wuse,25,18,7,280,420,7000,10500,2026-08-31,608,Low,SAFE,Emeka Pharma Distributors
+PRD-089,Ketoconazole 200mg (Strip 10),Antibiotics,B002,Branch B — Wuse,18,15,3,190,285,3420,5130,2026-08-07,584,Low,SAFE,Nasco Healthcare Supplies
+PRD-090,Metronidazole Susp 200mg/5ml,Antibiotics,B002,Branch B — Wuse,17,20,-3,280,400,4760,6800,2025-07-04,185,Medium,SAFE,Medline Nigeria Ltd
+PRD-091,Amoxicillin Susp 125mg/5ml,Antibiotics,B002,Branch B — Wuse,23,25,-2,180,260,4140,5980,2025-08-12,224,Medium,SAFE,Apex Pharmaceuticals
+PRD-092,Cotrimoxazole 480mg (Strip 14),Antibiotics,B002,Branch B — Wuse,38,25,13,80,120,3040,4560,2026-02-06,402,Low,SAFE,Emeka Pharma Distributors
+PRD-093,Cotrimoxazole Susp 240mg/5ml,Antibiotics,B002,Branch B — Wuse,44,18,26,150,220,6600,9680,2025-06-20,171,Medium,SAFE,Nasco Healthcare Supplies
+PRD-094,Nalidixic Acid 500mg (Strip 14),Antibiotics,B002,Branch B — Wuse,25,12,13,140,205,3500,5125,2026-03-23,447,Low,SAFE,Medline Nigeria Ltd
+PRD-095,Tinidazole 500mg (Strip 4),Antibiotics,B002,Branch B — Wuse,27,20,7,120,180,3240,4860,2025-11-18,322,Low,SAFE,Apex Pharmaceuticals
+PRD-096,Flucloxacillin 500mg (Strip 15),Antibiotics,B002,Branch B — Wuse,28,15,13,280,415,7840,11620,2026-01-24,389,Low,SAFE,Emeka Pharma Distributors
+PRD-097,Cefixime 400mg (Strip 10),Antibiotics,B002,Branch B — Wuse,26,12,14,580,870,15080,22620,2026-12-14,713,Low,SAFE,Nasco Healthcare Supplies
+PRD-098,Indomethacin 25mg (Strip 10),Analgesics,B002,Branch B — Wuse,21,18,3,85,125,1785,2625,2025-10-11,284,Low,SAFE,Medline Nigeria Ltd
+PRD-099,Ketorolac 10mg (Strip 10),Analgesics,B002,Branch B — Wuse,16,12,4,130,195,2080,3120,2026-04-02,457,Low,SAFE,Apex Pharmaceuticals
+PRD-100,Mefenamic Acid 500mg (Strip 10),Analgesics,B002,Branch B — Wuse,28,22,6,95,140,2660,3920,2026-12-15,714,Low,SAFE,Emeka Pharma Distributors
+PRD-101,Pentazocine 50mg (Strip 10),Analgesics,B002,Branch B — Wuse,21,10,11,250,370,5250,7770,2026-12-13,712,Low,SAFE,Nasco Healthcare Supplies
+PRD-102,Orphenadrine 35mg (Strip 10),Analgesics,B002,Branch B — Wuse,17,12,5,110,165,1870,2805,2026-01-09,374,Low,SAFE,Medline Nigeria Ltd
+PRD-103,Vitamin A 50000IU (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,29,20,9,140,195,4060,5655,2025-08-31,243,Medium,SAFE,Apex Pharmaceuticals
+PRD-104,Nicotinamide 50mg (Strip 14),Vitamins & Supplements,B002,Branch B — Wuse,51,25,26,75,105,3825,5355,2025-11-30,334,Medium,SAFE,Emeka Pharma Distributors
+PRD-105,Pyridoxine 25mg (Strip 14),Vitamins & Supplements,B002,Branch B — Wuse,44,28,16,70,100,3080,4400,2025-07-02,183,Medium,SAFE,Nasco Healthcare Supplies
+PRD-106,Riboflavin 5mg (Strip 14),Vitamins & Supplements,B002,Branch B — Wuse,29,22,7,65,92,1885,2668,2025-10-14,287,Medium,SAFE,Medline Nigeria Ltd
+PRD-107,Thiamine 100mg (Strip 14),Vitamins & Supplements,B002,Branch B — Wuse,44,25,19,70,100,3080,4400,2025-08-21,233,Medium,SAFE,Apex Pharmaceuticals
+PRD-108,Spironolactone 25mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,17,15,2,260,450,4420,7650,2026-10-28,666,Low,SAFE,Emeka Pharma Distributors
+PRD-109,Furosemide 40mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,46,22,24,130,225,5980,10350,2025-10-17,290,Low,SAFE,Nasco Healthcare Supplies
+PRD-110,Indapamide 2.5mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,17,12,5,310,535,5270,9095,2026-05-11,496,Low,SAFE,Medline Nigeria Ltd
+PRD-111,Bisoprolol 5mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,22,14,8,340,585,7480,12870,2026-02-26,422,Low,SAFE,Apex Pharmaceuticals
+PRD-112,Bisoprolol 10mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,20,10,10,410,705,8200,14100,2025-09-03,246,Low,SAFE,Emeka Pharma Distributors
+PRD-113,Metformin 500mg (Strip of 28),Gastrointestinal,B002,Branch B — Wuse,60,38,22,180,320,10800,19200,2025-12-18,352,Low,SAFE,Nasco Healthcare Supplies
+PRD-114,Metformin 850mg (Strip of 28),Gastrointestinal,B002,Branch B — Wuse,28,30,-2,220,390,6160,10920,2026-04-01,456,Low,SAFE,Nasco Healthcare Supplies
+PRD-115,Glibenclamide 5mg (Strip 28),Gastrointestinal,B002,Branch B — Wuse,21,20,1,120,210,2520,4410,2025-12-16,350,Low,SAFE,Medline Nigeria Ltd
+PRD-116,Glimepiride 2mg (Strip 28),Gastrointestinal,B002,Branch B — Wuse,26,16,10,280,490,7280,12740,2026-12-17,716,Low,SAFE,Apex Pharmaceuticals
+PRD-117,Sitagliptin 100mg (Strip 28),Gastrointestinal,B002,Branch B — Wuse,19,10,9,980,1680,18620,31920,2025-12-27,361,Low,SAFE,Emeka Pharma Distributors
+PRD-118,Insulin Regular 10ml Vial,Gastrointestinal,B002,Branch B — Wuse,11,8,3,1800,2800,19800,30800,2025-04-15,105,High,SAFE,Medline Nigeria Ltd
+PRD-119,Insulin Glargine 3ml Cartridge,Gastrointestinal,B002,Branch B — Wuse,5,5,0,3200,5000,16000,25000,2025-03-15,74,High,MONITOR,Medline Nigeria Ltd
+PRD-120,Amoxicillin IV 1g Vial,Antibiotics,B002,Branch B — Wuse,5,5,0,480,720,2400,3600,2025-04-29,119,High,SAFE,Apex Pharmaceuticals
+PRD-121,Ceftriaxone IV 1g Vial,Antibiotics,B002,Branch B — Wuse,9,5,4,680,1050,6120,9450,2025-05-08,128,High,SAFE,Emeka Pharma Distributors
+PRD-122,Gentamicin 80mg/2ml Ampoule,Antibiotics,B002,Branch B — Wuse,9,4,5,320,490,2880,4410,2025-03-10,69,High,MONITOR,Nasco Healthcare Supplies
+PRD-123,Hydrocortisone 100mg Vial,Analgesics,B002,Branch B — Wuse,7,3,4,580,890,4060,6230,2025-04-22,112,High,SAFE,Medline Nigeria Ltd
+PRD-124,Dexamethasone 8mg/2ml Ampoule,Analgesics,B002,Branch B — Wuse,4,4,0,380,580,1520,2320,2025-06-21,172,High,SAFE,Apex Pharmaceuticals
+PRD-125,Adrenaline 1mg/ml Ampoule,Analgesics,B002,Branch B — Wuse,4,3,1,420,640,1680,2560,2025-04-07,97,High,SAFE,Emeka Pharma Distributors
+PRD-126,Vitamin K 10mg/ml Ampoule,Vitamins & Supplements,B002,Branch B — Wuse,3,3,0,280,430,840,1290,2025-03-28,87,High,MONITOR,Nasco Healthcare Supplies
+PRD-127,Atropine 1mg/ml Ampoule,Analgesics,B002,Branch B — Wuse,7,3,4,350,540,2450,3780,2025-04-02,92,High,SAFE,Medline Nigeria Ltd
+PRD-128,Amoxicillin + Clav Susp 457mg/5ml,Antibiotics,B002,Branch B — Wuse,29,12,17,480,720,13920,20880,2025-04-05,95,High,SAFE,Apex Pharmaceuticals
+PRD-129,Azithromycin Susp 200mg/5ml,Antibiotics,B002,Branch B — Wuse,11,10,1,380,570,4180,6270,2025-03-18,77,High,MONITOR,Emeka Pharma Distributors
+PRD-130,Ibuprofen Susp 100mg/5ml,Analgesics,B002,Branch B — Wuse,22,15,7,220,330,4840,7260,2025-03-24,83,High,MONITOR,Nasco Healthcare Supplies
+PRD-131,Paracetamol Susp 250mg/5ml,Analgesics,B002,Branch B — Wuse,39,20,19,150,200,5850,7800,2025-03-25,84,High,MONITOR,Medline Nigeria Ltd
+PRD-132,Chlorphenamine Syrup 2mg/5ml,Analgesics,B002,Branch B — Wuse,33,15,18,180,265,5940,8745,2025-06-08,159,High,SAFE,Apex Pharmaceuticals
+PRD-133,Promethazine Syrup 5mg/5ml 100ml,Analgesics,B002,Branch B — Wuse,15,12,3,220,330,3300,4950,2025-05-28,148,High,SAFE,Emeka Pharma Distributors
+PRD-134,Domperidone Susp 5mg/5ml,Gastrointestinal,B002,Branch B — Wuse,22,10,12,260,390,5720,8580,2025-05-08,128,High,SAFE,Nasco Healthcare Supplies
+PRD-135,Omeprazole Susp 10mg/5ml,Gastrointestinal,B002,Branch B — Wuse,11,8,3,380,570,4180,6270,2025-04-19,109,High,SAFE,Medline Nigeria Ltd
+PRD-136,Zinc Susp 10mg/5ml 60ml,Vitamins & Supplements,B002,Branch B — Wuse,32,15,17,180,260,5760,8320,2025-03-31,90,High,MONITOR,Apex Pharmaceuticals
+PRD-137,Multivitamin Drops 15ml,Vitamins & Supplements,B002,Branch B — Wuse,13,10,3,280,410,3640,5330,2025-03-15,74,High,MONITOR,Emeka Pharma Distributors
+PRD-138,Clotrimazole Cream 15g,Antibiotics,B002,Branch B — Wuse,29,20,9,180,300,5220,8700,2025-09-20,263,Low,SAFE,Nasco Healthcare Supplies
+PRD-139,Betamethasone Cream 15g,Analgesics,B002,Branch B — Wuse,20,15,5,220,370,4400,7400,2026-02-13,409,Low,SAFE,Medline Nigeria Ltd
+PRD-140,Gentamicin Eye Drops 5ml,Antibiotics,B002,Branch B — Wuse,14,12,2,150,250,2100,3500,2025-05-15,135,Medium,SAFE,Apex Pharmaceuticals
+PRD-141,Chloramphenicol Eye Drops 5ml,Antibiotics,B002,Branch B — Wuse,25,15,10,130,215,3250,5375,2025-11-26,330,Medium,SAFE,Emeka Pharma Distributors
+PRD-142,Diclofenac Gel 30g,Analgesics,B002,Branch B — Wuse,24,18,6,280,460,6720,11040,2025-12-06,340,Low,SAFE,Nasco Healthcare Supplies
+PRD-143,Ketoconazole Shampoo 60ml,Antibiotics,B002,Branch B — Wuse,12,10,2,380,620,4560,7440,2026-10-21,659,Low,SAFE,Medline Nigeria Ltd
+PRD-144,Hydrocortisone Cream 15g,Analgesics,B002,Branch B — Wuse,30,18,12,160,265,4800,7950,2025-10-12,285,Low,SAFE,Apex Pharmaceuticals
+PRD-145,Miconazole Cream 15g,Antibiotics,B002,Branch B — Wuse,24,12,12,190,315,4560,7560,2025-10-24,297,Low,SAFE,Emeka Pharma Distributors
+PRD-146,Albendazole 400mg (Tablet),Antibiotics,B002,Branch B — Wuse,19,22,-3,80,130,1520,2470,2025-12-15,349,Low,SAFE,Nasco Healthcare Supplies
+PRD-147,Mebendazole 100mg (Strip 6),Antibiotics,B002,Branch B — Wuse,27,25,2,65,105,1755,2835,2026-06-12,528,Low,SAFE,Medline Nigeria Ltd
+PRD-148,Praziquantel 600mg (Strip 6),Antibiotics,B002,Branch B — Wuse,12,8,4,280,460,3360,5520,2026-08-11,588,Low,SAFE,Apex Pharmaceuticals
+PRD-149,Ivermectin 12mg (Tablet),Antibiotics,B002,Branch B — Wuse,16,10,6,180,295,2880,4720,2026-03-09,433,Low,SAFE,Emeka Pharma Distributors
+PRD-150,Artemether+Lumefantrine (Strip 24),Antibiotics,B002,Branch B — Wuse,27,16,11,480,780,12960,21060,2026-03-17,441,Low,SAFE,Nasco Healthcare Supplies
+PRD-151,Chloroquine 250mg (Strip 10),Antibiotics,B002,Branch B — Wuse,10,12,-2,90,145,900,1450,2026-07-20,566,Low,SAFE,Medline Nigeria Ltd
+PRD-152,Quinine 300mg (Strip 10),Antibiotics,B002,Branch B — Wuse,24,10,14,110,180,2640,4320,2026-03-10,434,Low,SAFE,Apex Pharmaceuticals
+PRD-153,Primaquine 15mg (Strip 14),Antibiotics,B002,Branch B — Wuse,12,8,4,140,225,1680,2700,2025-08-30,242,Low,SAFE,Emeka Pharma Distributors
+PRD-154,Digoxin 0.25mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,27,12,15,180,310,4860,8370,2026-11-24,693,Low,SAFE,Nasco Healthcare Supplies
+PRD-155,Amiodarone 200mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,17,8,9,580,990,9860,16830,2025-09-30,273,Low,SAFE,Medline Nigeria Ltd
+PRD-156,Warfarin 5mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,23,10,13,210,360,4830,8280,2025-08-19,231,Low,SAFE,Apex Pharmaceuticals
+PRD-157,Clopidogrel 75mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,21,14,7,380,650,7980,13650,2026-04-19,474,Low,SAFE,Emeka Pharma Distributors
+PRD-158,Rosuvastatin 10mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,35,16,19,420,720,14700,25200,2026-08-25,602,Low,SAFE,Nasco Healthcare Supplies
+PRD-159,Atorvastatin 20mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,38,18,20,360,615,13680,23370,2026-10-24,662,Low,SAFE,Medline Nigeria Ltd
+PRD-160,Atorvastatin 40mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,22,14,8,440,755,9680,16610,2026-09-09,617,Low,SAFE,Medline Nigeria Ltd
+PRD-161,Simvastatin 20mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,13,15,-2,290,500,3770,6500,2026-03-22,446,Low,SAFE,Apex Pharmaceuticals
+PRD-162,Ezetimibe 10mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,7,9,-2,480,820,3360,5740,2026-11-17,686,Low,SAFE,Emeka Pharma Distributors
+PRD-163,Isosorbide Mononitrate 20mg Str28,Antihypertensives,B002,Branch B — Wuse,26,11,15,230,395,5980,10270,2025-09-18,261,Low,SAFE,Nasco Healthcare Supplies
+PRD-164,Enalapril 5mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,22,13,9,240,415,5280,9130,2026-01-20,385,Low,SAFE,Emeka Pharma Distributors
+PRD-165,Enalapril 10mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,15,11,4,290,500,4350,7500,2026-03-25,449,Low,SAFE,Emeka Pharma Distributors
+PRD-166,Enalapril 20mg (Strip of 28),Antihypertensives,B002,Branch B — Wuse,9,9,0,350,600,3150,5400,2025-11-07,311,Low,SAFE,Nasco Healthcare Supplies
+PRD-167,Perindopril 4mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,14,8,6,410,700,5740,9800,2025-08-16,228,Low,SAFE,Medline Nigeria Ltd
+PRD-168,Candesartan 8mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,14,8,6,460,790,6440,11060,2026-01-16,381,Low,SAFE,Apex Pharmaceuticals
+PRD-169,Candesartan 16mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,15,7,8,520,890,7800,13350,2026-06-09,525,Low,SAFE,Apex Pharmaceuticals
+PRD-170,Irbesartan 150mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,14,7,7,490,840,6860,11760,2025-10-04,277,Low,SAFE,Emeka Pharma Distributors
+PRD-171,Chlorthalidone 25mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,12,10,2,200,345,2400,4140,2026-12-29,728,Low,SAFE,Nasco Healthcare Supplies
+PRD-172,Prazosin 1mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,13,9,4,180,310,2340,4030,2026-02-06,402,Low,SAFE,Medline Nigeria Ltd
+PRD-173,Doxazosin 4mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,15,7,8,380,650,5700,9750,2025-08-23,235,Low,SAFE,Apex Pharmaceuticals
+PRD-174,Nifedipine 10mg Retard (Strip 28),Antihypertensives,B002,Branch B — Wuse,20,12,8,250,430,5000,8600,2025-11-22,326,Low,SAFE,Emeka Pharma Distributors
+PRD-175,Felodipine 5mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,9,7,2,420,720,3780,6480,2025-11-17,321,Low,SAFE,Nasco Healthcare Supplies
+PRD-176,Diltiazem 60mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,6,8,-2,310,530,1860,3180,2026-03-07,431,Low,SAFE,Medline Nigeria Ltd
+PRD-177,Verapamil 80mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,14,7,7,280,480,3920,6720,2026-12-06,705,Low,SAFE,Apex Pharmaceuticals
+PRD-178,Propranolol 40mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,26,14,12,160,275,4160,7150,2026-02-21,417,Low,SAFE,Emeka Pharma Distributors
+PRD-179,Nebivolol 5mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,12,6,6,490,840,5880,10080,2026-04-22,477,Low,SAFE,Nasco Healthcare Supplies
+PRD-180,Labetalol 100mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,9,7,2,330,565,2970,5085,2025-11-06,310,Low,SAFE,Medline Nigeria Ltd
+PRD-181,Glyceryl Trinitrate 0.5mg Str50,Antihypertensives,B002,Branch B — Wuse,19,9,10,280,480,5320,9120,2026-04-19,474,Low,SAFE,Apex Pharmaceuticals
+PRD-182,Ivabradine 5mg (Strip 28),Antihypertensives,B002,Branch B — Wuse,12,5,7,680,1160,8160,13920,2026-09-20,628,Low,SAFE,Emeka Pharma Distributors
+PRD-183,Sacubitril+Valsartan 50mg Str28,Antihypertensives,B002,Branch B — Wuse,6,4,2,1800,3000,10800,18000,2026-08-20,597,Low,SAFE,Nasco Healthcare Supplies
+PRD-184,Phenytoin 100mg (Strip 28),Gastrointestinal,B002,Branch B — Wuse,10,7,3,160,275,1600,2750,2025-09-16,259,Low,SAFE,Medline Nigeria Ltd
+PRD-185,Carbamazepine 200mg (Strip 28),Gastrointestinal,B002,Branch B — Wuse,13,8,5,180,310,2340,4030,2026-10-23,661,Low,SAFE,Apex Pharmaceuticals
+PRD-186,Valproic Acid 200mg (Strip 30),Gastrointestinal,B002,Branch B — Wuse,13,6,7,220,375,2860,4875,2026-05-27,512,Low,SAFE,Emeka Pharma Distributors
+PRD-187,Levetiracetam 500mg (Strip 30),Gastrointestinal,B002,Branch B — Wuse,7,5,2,680,1160,4760,8120,2025-08-12,224,Low,SAFE,Nasco Healthcare Supplies
+PRD-188,Pregabalin 75mg (Strip 14),Gastrointestinal,B002,Branch B — Wuse,10,8,2,480,820,4800,8200,2026-12-25,724,Low,SAFE,Medline Nigeria Ltd
+PRD-189,Gabapentin 300mg (Strip 14),Gastrointestinal,B002,Branch B — Wuse,14,7,7,380,650,5320,9100,2026-08-08,585,Low,SAFE,Apex Pharmaceuticals
+PRD-190,Tramadol + Paracetamol (Strip 10),Analgesics,B002,Branch B — Wuse,29,14,15,200,290,5800,8410,2026-06-19,535,Low,SAFE,Emeka Pharma Distributors
+PRD-191,Muscle Rub Cream 50g,Analgesics,B002,Branch B — Wuse,19,11,8,350,580,6650,11020,2026-03-26,450,Low,SAFE,Medline Nigeria Ltd
+PRD-192,Voltaren Gel 100g,Analgesics,B002,Branch B — Wuse,12,8,4,580,950,6960,11400,2026-10-26,664,Low,SAFE,Apex Pharmaceuticals
+PRD-193,Antihistamine Loratadine 10mg Str10,Vitamins & Supplements,B002,Branch B — Wuse,41,28,13,80,130,3280,5330,2026-10-10,648,Low,SAFE,Emeka Pharma Distributors
+PRD-194,Cetirizine 10mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,66,30,36,75,120,4950,7920,2026-09-04,612,Low,SAFE,Nasco Healthcare Supplies
+PRD-195,Chlorphenamine 4mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,27,32,-5,55,88,1485,2376,2025-10-21,294,Low,SAFE,Medline Nigeria Ltd
+PRD-196,Fexofenadine 120mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,16,12,4,180,290,2880,4640,2026-10-14,652,Low,SAFE,Medline Nigeria Ltd
+PRD-197,Montelukast 10mg (Strip 28),Vitamins & Supplements,B002,Branch B — Wuse,22,10,12,380,615,8360,13530,2025-08-28,240,Low,SAFE,Apex Pharmaceuticals
+PRD-198,Salbutamol Inhaler 100mcg,Vitamins & Supplements,B002,Branch B — Wuse,10,8,2,680,1100,6800,11000,2025-11-22,326,Medium,SAFE,Nasco Healthcare Supplies
+PRD-199,N-Acetylcysteine 600mg (Strip 10),Vitamins & Supplements,B002,Branch B — Wuse,11,9,2,280,455,3080,5005,2026-12-18,717,Low,SAFE,Apex Pharmaceuticals
+PRD-200,Bromhexine 8mg (Strip 20),Vitamins & Supplements,B002,Branch B — Wuse,22,14,8,90,146,1980,3212,2026-11-28,697,Low,SAFE,Emeka Pharma Distributors
+PRD-201,Guaifenesin Syrup 100mg/5ml,Vitamins & Supplements,B002,Branch B — Wuse,18,12,6,220,357,3960,6426,2025-07-11,192,Medium,SAFE,Nasco Healthcare Supplies
+PRD-202,Oral Glucose 25g Sachet,Vitamins & Supplements,B002,Branch B — Wuse,14,10,4,80,116,1120,1624,2025-12-01,335,Medium,SAFE,Emeka Pharma Distributors
+PRD-203,Sodium Bicarbonate 600mg (Strip10),Gastrointestinal,B002,Branch B — Wuse,16,12,4,60,87,960,1392,2026-07-15,561,Low,SAFE,Apex Pharmaceuticals
+PRD-204,Ursodeoxycholic Acid 250mg Str28,Gastrointestinal,B002,Branch B — Wuse,7,5,2,480,820,3360,5740,2026-12-01,700,Low,SAFE,Emeka Pharma Distributors
+PRD-205,Metronidazole Gel 0.75% 30g,Antibiotics,B002,Branch B — Wuse,7,7,0,250,415,1750,2905,2026-03-14,438,Low,SAFE,Medline Nigeria Ltd
+PRD-206,Povidone Iodine Solution 100ml,Antibiotics,B002,Branch B — Wuse,9,9,0,280,406,2520,3654,2026-05-29,514,Low,SAFE,Apex Pharmaceuticals
+PRD-207,Fluconazole Susp 50mg/5ml,Antibiotics,B002,Branch B — Wuse,8,6,2,380,570,3040,4560,2025-05-05,125,Medium,SAFE,Emeka Pharma Distributors
+PRD-208,Ampicillin 500mg Capsule (Strip15),Antibiotics,B002,Branch B — Wuse,26,12,14,150,225,3900,5850,2026-02-14,410,Low,SAFE,Nasco Healthcare Supplies
+PRD-209,Ofloxacin 400mg (Strip 10),Antibiotics,B002,Branch B — Wuse,14,9,5,280,420,3920,5880,2026-03-03,427,Low,SAFE,Medline Nigeria Ltd
+PRD-210,Sparfloxacin 200mg (Strip 6),Antibiotics,B002,Branch B — Wuse,11,7,4,320,480,3520,5280,2025-08-15,227,Low,SAFE,Apex Pharmaceuticals
+PRD-211,Norfloxacin 400mg (Strip 10),Antibiotics,B002,Branch B — Wuse,17,8,9,220,330,3740,5610,2026-01-23,388,Low,SAFE,Emeka Pharma Distributors
+PRD-212,Furazolidone 100mg (Strip 10),Antibiotics,B002,Branch B — Wuse,14,7,7,110,165,1540,2310,2025-09-09,252,Low,SAFE,Nasco Healthcare Supplies
+PRD-213,Secnidazole 1g (Strip 2),Antibiotics,B002,Branch B — Wuse,13,8,5,180,270,2340,3510,2026-11-14,683,Low,SAFE,Medline Nigeria Ltd
+PRD-214,Ornidazole 500mg (Strip 10),Antibiotics,B002,Branch B — Wuse,8,6,2,150,225,1200,1800,2025-11-15,319,Low,SAFE,Apex Pharmaceuticals
+PRD-215,Doxycycline 200mg (Capsule),Antibiotics,B002,Branch B — Wuse,4,5,-1,140,210,560,840,2026-10-19,657,Low,SAFE,Emeka Pharma Distributors
+PRD-216,Rifampicin 300mg (Strip 10),Antibiotics,B002,Branch B — Wuse,4,4,0,280,420,1120,1680,2026-12-18,717,Low,SAFE,Nasco Healthcare Supplies
+PRD-217,Isoniazid 300mg (Strip 28),Antibiotics,B002,Branch B — Wuse,3,3,0,120,180,360,540,2026-04-09,464,Low,SAFE,Medline Nigeria Ltd
+PRD-218,Pyrazinamide 500mg (Strip 28),Antibiotics,B002,Branch B — Wuse,4,3,1,150,225,600,900,2025-09-07,250,Low,SAFE,Apex Pharmaceuticals
+PRD-219,Ethambutol 400mg (Strip 28),Antibiotics,B002,Branch B — Wuse,5,3,2,130,195,650,975,2026-07-16,562,Low,SAFE,Emeka Pharma Distributors
+PRD-220,Glibenclamide 2.5mg (Strip 28),Gastrointestinal,B002,Branch B — Wuse,28,14,14,95,165,2660,4620,2026-05-01,486,Low,SAFE,Nasco Healthcare Supplies
+PRD-001,Paracetamol 500mg (Strip of 10),Analgesics,B003,Branch C — Maitama,218,100,118,45,50,9810,10900,2026-08-26,603,Low,SAFE,Emeka Pharma Distributors
+PRD-002,Paracetamol 500mg (Bottle 100s),Analgesics,B003,Branch C — Maitama,56,50,6,380,420,21280,23520,2026-02-28,424,Low,SAFE,Emeka Pharma Distributors
+PRD-003,Ibuprofen 200mg (Strip of 10),Analgesics,B003,Branch C — Maitama,83,80,3,60,70,4980,5810,2025-10-14,287,Low,SAFE,Nasco Healthcare Supplies
+PRD-004,Ibuprofen 400mg (Strip of 10),Analgesics,B003,Branch C — Maitama,120,60,60,75,90,9000,10800,2026-05-05,490,Low,SAFE,Nasco Healthcare Supplies
+PRD-005,Diclofenac 50mg (Strip of 10),Analgesics,B003,Branch C — Maitama,91,50,41,80,100,7280,9100,2026-08-16,593,Low,SAFE,Medline Nigeria Ltd
+PRD-006,Aspirin 75mg (Strip of 14),Analgesics,B003,Branch C — Maitama,50,40,10,55,70,2750,3500,2026-02-28,424,Low,SAFE,Apex Pharmaceuticals
+PRD-007,Aspirin 300mg (Strip of 10),Analgesics,B003,Branch C — Maitama,54,30,24,60,75,3240,4050,2025-09-25,268,Low,SAFE,Apex Pharmaceuticals
+PRD-008,Tramadol 50mg (Strip of 10),Analgesics,B003,Branch C — Maitama,66,30,36,180,250,11880,16500,2026-01-29,394,Low,SAFE,Emeka Pharma Distributors
+PRD-009,Codeine Phosphate 30mg (Strip 10),Analgesics,B003,Branch C — Maitama,38,20,18,220,310,8360,11780,2026-12-28,727,Low,SAFE,Medline Nigeria Ltd
+PRD-010,Piroxicam 20mg (Strip of 10),Analgesics,B003,Branch C — Maitama,40,25,15,90,120,3600,4800,2025-11-24,328,Low,SAFE,Nasco Healthcare Supplies
+PRD-011,Meloxicam 15mg (Strip of 10),Analgesics,B003,Branch C — Maitama,29,25,4,110,150,3190,4350,2025-09-06,249,Low,SAFE,Emeka Pharma Distributors
+PRD-012,Naproxen 500mg (Strip of 10),Analgesics,B003,Branch C — Maitama,42,20,22,100,135,4200,5670,2026-01-03,368,Low,SAFE,Medline Nigeria Ltd
+PRD-013,Celecoxib 200mg (Strip of 10),Analgesics,B003,Branch C — Maitama,16,15,1,250,350,4000,5600,2026-08-06,583,Low,SAFE,Apex Pharmaceuticals
+PRD-014,Amoxicillin 250mg (Strip of 15),Antibiotics,B003,Branch C — Maitama,79,60,19,120,170,9480,13430,2026-06-09,525,Low,SAFE,Nasco Healthcare Supplies
+PRD-015,Amoxicillin 500mg (Strip of 15),Antibiotics,B003,Branch C — Maitama,90,60,30,180,250,16200,22500,2026-01-24,389,Low,SAFE,Nasco Healthcare Supplies
+PRD-016,Amoxicillin+Clav 625mg (Strip 14),Antibiotics,B003,Branch C — Maitama,57,35,22,650,950,37050,54150,2026-01-14,379,Low,SAFE,Emeka Pharma Distributors
+PRD-017,Azithromycin 500mg (Strip of 6),Antibiotics,B003,Branch C — Maitama,91,40,51,380,580,34580,52780,2025-09-13,256,Low,SAFE,Medline Nigeria Ltd
+PRD-018,Ciprofloxacin 500mg (Strip of 10),Antibiotics,B003,Branch C — Maitama,42,50,-8,190,280,7980,11760,2026-03-02,426,Low,SAFE,Apex Pharmaceuticals
+PRD-019,Ciprofloxacin 250mg (Strip of 10),Antibiotics,B003,Branch C — Maitama,43,40,3,130,190,5590,8170,2026-08-22,599,Low,SAFE,Apex Pharmaceuticals
+PRD-020,Metronidazole 400mg (Strip 14),Antibiotics,B003,Branch C — Maitama,77,55,22,95,140,7315,10780,2025-12-18,352,Low,SAFE,Nasco Healthcare Supplies
+PRD-021,Metronidazole 200mg (Strip 14),Antibiotics,B003,Branch C — Maitama,63,45,18,70,100,4410,6300,2025-11-27,331,Low,SAFE,Nasco Healthcare Supplies
+PRD-022,Doxycycline 100mg (Strip of 10),Antibiotics,B003,Branch C — Maitama,52,40,12,110,165,5720,8580,2026-05-24,509,Low,SAFE,Emeka Pharma Distributors
+PRD-023,Erythromycin 500mg (Strip of 10),Antibiotics,B003,Branch C — Maitama,68,30,38,140,210,9520,14280,2026-02-12,408,Low,SAFE,Medline Nigeria Ltd
+PRD-024,Clindamycin 300mg (Strip of 16),Antibiotics,B003,Branch C — Maitama,33,25,8,320,480,10560,15840,2026-09-10,618,Low,SAFE,Apex Pharmaceuticals
+PRD-025,Tetracycline 250mg (Strip 16),Antibiotics,B003,Branch C — Maitama,20,25,-5,85,125,1700,2500,2026-01-08,373,Low,SAFE,Nasco Healthcare Supplies
+PRD-026,Clarithromycin 500mg (Strip 14),Antibiotics,B003,Branch C — Maitama,31,20,11,580,850,17980,26350,2026-06-09,525,Low,SAFE,Emeka Pharma Distributors
+PRD-027,Nitrofurantoin 100mg (Strip 14),Antibiotics,B003,Branch C — Maitama,21,20,1,210,310,4410,6510,2026-03-16,440,Low,SAFE,Medline Nigeria Ltd
+PRD-028,Levofloxacin 500mg (Strip 10),Antibiotics,B003,Branch C — Maitama,26,15,11,420,620,10920,16120,2026-04-24,479,Low,SAFE,Apex Pharmaceuticals
+PRD-029,Cefuroxime 500mg (Strip 10),Antibiotics,B003,Branch C — Maitama,26,15,11,680,980,17680,25480,2026-07-11,557,Low,SAFE,Emeka Pharma Distributors
+PRD-030,Trimethoprim 200mg (Strip 14),Antibiotics,B003,Branch C — Maitama,28,20,8,95,140,2660,3920,2025-09-08,251,Low,SAFE,Nasco Healthcare Supplies
+PRD-031,Vitamin C 1000mg (Strip of 10),Vitamins & Supplements,B003,Branch C — Maitama,89,100,-11,80,95,7120,8455,2025-11-24,328,Medium,SAFE,Medline Nigeria Ltd
+PRD-032,Vitamin C 500mg (Bottle 100s),Vitamins & Supplements,B003,Branch C — Maitama,78,40,38,950,1100,74100,85800,2025-10-31,304,Medium,SAFE,Medline Nigeria Ltd
+PRD-033,Zinc Sulphate 20mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,166,70,96,70,85,11620,14110,2025-10-28,301,Medium,SAFE,Apex Pharmaceuticals
+PRD-034,ORS Sachet (Single),Vitamins & Supplements,B003,Branch C — Maitama,296,150,146,30,35,8880,10360,2025-10-04,277,Medium,SAFE,Emeka Pharma Distributors
+PRD-035,ORS Sachet (Box of 10),Vitamins & Supplements,B003,Branch C — Maitama,49,40,9,280,320,13720,15680,2025-12-20,354,Medium,SAFE,Emeka Pharma Distributors
+PRD-036,Multivitamin Tablet (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,120,70,50,120,150,14400,18000,2025-06-15,166,Medium,SAFE,Nasco Healthcare Supplies
+PRD-037,Multivitamin Syrup 200ml,Vitamins & Supplements,B003,Branch C — Maitama,34,30,4,580,750,19720,25500,2025-11-13,317,Medium,SAFE,Nasco Healthcare Supplies
+PRD-038,Vitamin B Complex (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,73,60,13,90,120,6570,8760,2025-04-30,120,Medium,SAFE,Medline Nigeria Ltd
+PRD-039,Vitamin B12 1mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,53,35,18,160,210,8480,11130,2025-11-14,318,Medium,SAFE,Apex Pharmaceuticals
+PRD-040,Folic Acid 5mg (Strip 14),Vitamins & Supplements,B003,Branch C — Maitama,75,50,25,55,75,4125,5625,2025-11-10,314,Medium,SAFE,Emeka Pharma Distributors
+PRD-041,Iron + Folic Acid (Strip 14),Vitamins & Supplements,B003,Branch C — Maitama,99,45,54,80,110,7920,10890,2025-11-24,328,Medium,SAFE,Nasco Healthcare Supplies
+PRD-042,Calcium + Vit D3 (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,72,40,32,180,250,12960,18000,2025-10-15,288,Medium,SAFE,Medline Nigeria Ltd
+PRD-043,Omega-3 Fish Oil 1000mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,37,30,7,250,380,9250,14060,2025-05-14,134,Medium,SAFE,Apex Pharmaceuticals
+PRD-044,Vitamin E 400IU (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,42,25,17,200,280,8400,11760,2025-04-22,112,Medium,SAFE,Emeka Pharma Distributors
+PRD-045,Magnesium 250mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,39,25,14,190,260,7410,10140,2025-05-15,135,Medium,SAFE,Nasco Healthcare Supplies
+PRD-046,Selenium 200mcg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,19,20,-1,220,310,4180,5890,2025-11-27,331,Medium,SAFE,Medline Nigeria Ltd
+PRD-047,Biotin 5mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,37,20,17,280,400,10360,14800,2025-10-01,274,Medium,SAFE,Apex Pharmaceuticals
+PRD-048,Lisinopril 5mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,44,30,14,280,480,12320,21120,2026-03-06,430,Low,SAFE,Apex Pharmaceuticals
+PRD-049,Lisinopril 10mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,39,30,9,320,550,12480,21450,2026-03-16,440,Low,SAFE,Apex Pharmaceuticals
+PRD-050,Lisinopril 20mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,44,25,19,380,650,16720,28600,2025-11-10,314,Low,SAFE,Apex Pharmaceuticals
+PRD-051,Amlodipine 5mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,43,35,8,260,450,11180,19350,2026-04-16,471,Low,SAFE,Emeka Pharma Distributors
+PRD-052,Amlodipine 10mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,43,30,13,310,540,13330,23220,2026-09-29,637,Low,SAFE,Emeka Pharma Distributors
+PRD-053,Losartan 50mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,65,30,35,350,600,22750,39000,2026-01-25,390,Low,SAFE,Nasco Healthcare Supplies
+PRD-054,Losartan 100mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,39,25,14,420,720,16380,28080,2026-12-19,718,Low,SAFE,Nasco Healthcare Supplies
+PRD-055,Atenolol 50mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,66,30,36,220,380,14520,25080,2025-11-25,329,Low,SAFE,Medline Nigeria Ltd
+PRD-056,Atenolol 100mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,31,25,6,280,480,8680,14880,2025-09-18,261,Low,SAFE,Medline Nigeria Ltd
+PRD-057,Metoprolol 50mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,39,20,19,310,530,12090,20670,2026-01-15,380,Low,SAFE,Apex Pharmaceuticals
+PRD-058,Metoprolol 100mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,34,20,14,380,650,12920,22100,2026-09-03,611,Low,SAFE,Apex Pharmaceuticals
+PRD-059,Hydrochlorothiazide 25mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,55,25,30,180,310,9900,17050,2026-01-20,385,Low,SAFE,Emeka Pharma Distributors
+PRD-060,Valsartan 80mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,24,20,4,480,820,11520,19680,2026-10-14,652,Low,SAFE,Nasco Healthcare Supplies
+PRD-061,Valsartan 160mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,21,15,6,580,980,12180,20580,2026-10-01,639,Low,SAFE,Nasco Healthcare Supplies
+PRD-062,Ramipril 5mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,21,20,1,350,600,7350,12600,2026-11-15,684,Low,SAFE,Medline Nigeria Ltd
+PRD-063,Ramipril 10mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,29,18,11,420,720,12180,20880,2025-11-01,305,Low,SAFE,Medline Nigeria Ltd
+PRD-064,Olmesartan 20mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,25,15,10,520,880,13000,22000,2026-10-25,663,Low,SAFE,Apex Pharmaceuticals
+PRD-065,Telmisartan 40mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,21,15,6,490,840,10290,17640,2025-11-05,309,Low,SAFE,Emeka Pharma Distributors
+PRD-066,Carvedilol 6.25mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,21,12,9,380,650,7980,13650,2026-10-07,645,Low,SAFE,Nasco Healthcare Supplies
+PRD-067,Nifedipine 20mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,20,20,0,290,500,5800,10000,2025-08-28,240,Low,SAFE,Medline Nigeria Ltd
+PRD-068,Omeprazole 20mg (Strip of 14),Gastrointestinal,B003,Branch C — Maitama,49,55,-6,180,320,8820,15680,2025-12-02,336,Low,SAFE,Medline Nigeria Ltd
+PRD-069,Omeprazole 40mg (Strip of 14),Gastrointestinal,B003,Branch C — Maitama,36,45,-9,240,420,8640,15120,2026-03-14,438,Low,SAFE,Medline Nigeria Ltd
+PRD-070,Pantoprazole 40mg (Strip of 14),Gastrointestinal,B003,Branch C — Maitama,79,40,39,260,460,20540,36340,2026-08-05,582,Low,SAFE,Apex Pharmaceuticals
+PRD-071,Lansoprazole 30mg (Strip 14),Gastrointestinal,B003,Branch C — Maitama,65,35,30,290,510,18850,33150,2026-01-05,370,Low,SAFE,Emeka Pharma Distributors
+PRD-072,Ranitidine 150mg (Strip 14),Gastrointestinal,B003,Branch C — Maitama,92,45,47,120,200,11040,18400,2026-05-28,513,Low,SAFE,Nasco Healthcare Supplies
+PRD-073,Domperidone 10mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,113,50,63,90,150,10170,16950,2026-04-08,463,Low,SAFE,Medline Nigeria Ltd
+PRD-074,Metoclopramide 10mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,49,45,4,70,120,3430,5880,2026-06-27,543,Low,SAFE,Apex Pharmaceuticals
+PRD-075,Loperamide 2mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,42,40,2,85,145,3570,6090,2026-12-12,711,Low,SAFE,Emeka Pharma Distributors
+PRD-076,Lactulose Syrup 200ml,Gastrointestinal,B003,Branch C — Maitama,49,25,24,480,820,23520,40180,2025-10-29,302,Medium,SAFE,Nasco Healthcare Supplies
+PRD-077,Bisacodyl 5mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,68,35,33,75,130,5100,8840,2025-09-25,268,Low,SAFE,Medline Nigeria Ltd
+PRD-078,Hyoscine Butylbromide 10mg Strip10,Gastrointestinal,B003,Branch C — Maitama,47,30,17,110,190,5170,8930,2026-07-05,551,Low,SAFE,Apex Pharmaceuticals
+PRD-079,Dicyclomine 20mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,35,30,5,95,165,3325,5775,2026-07-20,566,Low,SAFE,Emeka Pharma Distributors
+PRD-080,Sucralfate 1g (Strip 10),Gastrointestinal,B003,Branch C — Maitama,54,25,29,150,260,8100,14040,2025-12-25,359,Low,SAFE,Nasco Healthcare Supplies
+PRD-081,Esomeprazole 40mg (Strip 14),Gastrointestinal,B003,Branch C — Maitama,31,28,3,310,550,9610,17050,2026-11-01,670,Low,SAFE,Medline Nigeria Ltd
+PRD-082,Simethicone 40mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,28,35,-7,80,140,2240,3920,2025-12-15,349,Low,SAFE,Apex Pharmaceuticals
+PRD-083,Colpermin Capsules (Strip 10),Gastrointestinal,B003,Branch C — Maitama,26,18,8,380,650,9880,16900,2025-10-08,281,Medium,SAFE,Emeka Pharma Distributors
+PRD-084,Mebeverine 135mg (Strip 15),Gastrointestinal,B003,Branch C — Maitama,54,22,32,220,380,11880,20520,2026-02-12,408,Low,SAFE,Nasco Healthcare Supplies
+PRD-085,Ondansetron 4mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,60,25,35,280,490,16800,29400,2026-02-10,406,Low,SAFE,Medline Nigeria Ltd
+PRD-086,Ondansetron 8mg (Strip 10),Gastrointestinal,B003,Branch C — Maitama,35,18,17,350,610,12250,21350,2025-10-30,303,Low,SAFE,Medline Nigeria Ltd
+PRD-087,Prochlorperazine 5mg (Strip 14),Gastrointestinal,B003,Branch C — Maitama,39,25,14,130,225,5070,8775,2026-10-26,664,Low,SAFE,Apex Pharmaceuticals
+PRD-088,Fluconazole 150mg (Capsule),Antibiotics,B003,Branch C — Maitama,24,18,6,280,420,6720,10080,2025-09-29,272,Low,SAFE,Emeka Pharma Distributors
+PRD-089,Ketoconazole 200mg (Strip 10),Antibiotics,B003,Branch C — Maitama,25,15,10,190,285,4750,7125,2026-03-19,443,Low,SAFE,Nasco Healthcare Supplies
+PRD-090,Metronidazole Susp 200mg/5ml,Antibiotics,B003,Branch C — Maitama,23,20,3,280,400,6440,9200,2025-12-06,340,Medium,SAFE,Medline Nigeria Ltd
+PRD-091,Amoxicillin Susp 125mg/5ml,Antibiotics,B003,Branch C — Maitama,45,25,20,180,260,8100,11700,2025-07-17,198,Medium,SAFE,Apex Pharmaceuticals
+PRD-092,Cotrimoxazole 480mg (Strip 14),Antibiotics,B003,Branch C — Maitama,62,25,37,80,120,4960,7440,2025-10-16,289,Low,SAFE,Emeka Pharma Distributors
+PRD-093,Cotrimoxazole Susp 240mg/5ml,Antibiotics,B003,Branch C — Maitama,40,18,22,150,220,6000,8800,2025-06-17,168,Medium,SAFE,Nasco Healthcare Supplies
+PRD-094,Nalidixic Acid 500mg (Strip 14),Antibiotics,B003,Branch C — Maitama,14,12,2,140,205,1960,2870,2026-04-18,473,Low,SAFE,Medline Nigeria Ltd
+PRD-095,Tinidazole 500mg (Strip 4),Antibiotics,B003,Branch C — Maitama,38,20,18,120,180,4560,6840,2026-07-25,571,Low,SAFE,Apex Pharmaceuticals
+PRD-096,Flucloxacillin 500mg (Strip 15),Antibiotics,B003,Branch C — Maitama,12,15,-3,280,415,3360,4980,2025-12-31,365,Low,SAFE,Emeka Pharma Distributors
+PRD-097,Cefixime 400mg (Strip 10),Antibiotics,B003,Branch C — Maitama,23,12,11,580,870,13340,20010,2026-11-04,673,Low,SAFE,Nasco Healthcare Supplies
+PRD-098,Indomethacin 25mg (Strip 10),Analgesics,B003,Branch C — Maitama,34,18,16,85,125,2890,4250,2025-12-20,354,Low,SAFE,Medline Nigeria Ltd
+PRD-099,Ketorolac 10mg (Strip 10),Analgesics,B003,Branch C — Maitama,19,12,7,130,195,2470,3705,2026-07-03,549,Low,SAFE,Apex Pharmaceuticals
+PRD-100,Mefenamic Acid 500mg (Strip 10),Analgesics,B003,Branch C — Maitama,22,22,0,95,140,2090,3080,2026-05-12,497,Low,SAFE,Emeka Pharma Distributors
+PRD-101,Pentazocine 50mg (Strip 10),Analgesics,B003,Branch C — Maitama,16,10,6,250,370,4000,5920,2026-01-26,391,Low,SAFE,Nasco Healthcare Supplies
+PRD-102,Orphenadrine 35mg (Strip 10),Analgesics,B003,Branch C — Maitama,22,12,10,110,165,2420,3630,2026-06-28,544,Low,SAFE,Medline Nigeria Ltd
+PRD-103,Vitamin A 50000IU (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,49,20,29,140,195,6860,9555,2025-08-06,218,Medium,SAFE,Apex Pharmaceuticals
+PRD-104,Nicotinamide 50mg (Strip 14),Vitamins & Supplements,B003,Branch C — Maitama,42,25,17,75,105,3150,4410,2025-05-29,149,Medium,SAFE,Emeka Pharma Distributors
+PRD-105,Pyridoxine 25mg (Strip 14),Vitamins & Supplements,B003,Branch C — Maitama,48,28,20,70,100,3360,4800,2025-04-28,118,Medium,SAFE,Nasco Healthcare Supplies
+PRD-106,Riboflavin 5mg (Strip 14),Vitamins & Supplements,B003,Branch C — Maitama,23,22,1,65,92,1495,2116,2025-06-02,153,Medium,SAFE,Medline Nigeria Ltd
+PRD-107,Thiamine 100mg (Strip 14),Vitamins & Supplements,B003,Branch C — Maitama,46,25,21,70,100,3220,4600,2025-09-11,254,Medium,SAFE,Apex Pharmaceuticals
+PRD-108,Spironolactone 25mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,32,15,17,260,450,8320,14400,2026-04-01,456,Low,SAFE,Emeka Pharma Distributors
+PRD-109,Furosemide 40mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,35,22,13,130,225,4550,7875,2025-10-28,301,Low,SAFE,Nasco Healthcare Supplies
+PRD-110,Indapamide 2.5mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,24,12,12,310,535,7440,12840,2025-08-08,220,Low,SAFE,Medline Nigeria Ltd
+PRD-111,Bisoprolol 5mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,21,14,7,340,585,7140,12285,2025-11-11,315,Low,SAFE,Apex Pharmaceuticals
+PRD-112,Bisoprolol 10mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,21,10,11,410,705,8610,14805,2026-07-17,563,Low,SAFE,Emeka Pharma Distributors
+PRD-113,Metformin 500mg (Strip of 28),Gastrointestinal,B003,Branch C — Maitama,76,38,38,180,320,13680,24320,2025-10-21,294,Low,SAFE,Nasco Healthcare Supplies
+PRD-114,Metformin 850mg (Strip of 28),Gastrointestinal,B003,Branch C — Maitama,58,30,28,220,390,12760,22620,2026-07-26,572,Low,SAFE,Nasco Healthcare Supplies
+PRD-115,Glibenclamide 5mg (Strip 28),Gastrointestinal,B003,Branch C — Maitama,16,20,-4,120,210,1920,3360,2026-01-16,381,Low,SAFE,Medline Nigeria Ltd
+PRD-116,Glimepiride 2mg (Strip 28),Gastrointestinal,B003,Branch C — Maitama,15,16,-1,280,490,4200,7350,2026-07-21,567,Low,SAFE,Apex Pharmaceuticals
+PRD-117,Sitagliptin 100mg (Strip 28),Gastrointestinal,B003,Branch C — Maitama,11,10,1,980,1680,10780,18480,2025-12-20,354,Low,SAFE,Emeka Pharma Distributors
+PRD-118,Insulin Regular 10ml Vial,Gastrointestinal,B003,Branch C — Maitama,23,8,15,1800,2800,41400,64400,2025-02-18,49,High,AT RISK,Medline Nigeria Ltd
+PRD-119,Insulin Glargine 3ml Cartridge,Gastrointestinal,B003,Branch C — Maitama,10,5,5,3200,5000,32000,50000,2025-02-21,52,High,AT RISK,Medline Nigeria Ltd
+PRD-120,Amoxicillin IV 1g Vial,Antibiotics,B003,Branch C — Maitama,10,5,5,480,720,4800,7200,2025-02-07,38,High,AT RISK,Apex Pharmaceuticals
+PRD-121,Ceftriaxone IV 1g Vial,Antibiotics,B003,Branch C — Maitama,15,5,10,680,1050,10200,15750,2025-02-09,40,High,AT RISK,Emeka Pharma Distributors
+PRD-122,Gentamicin 80mg/2ml Ampoule,Antibiotics,B003,Branch C — Maitama,10,4,6,320,490,3200,4900,2025-02-04,35,High,AT RISK,Nasco Healthcare Supplies
+PRD-123,Hydrocortisone 100mg Vial,Analgesics,B003,Branch C — Maitama,9,3,6,580,890,5220,8010,2025-02-19,50,High,AT RISK,Medline Nigeria Ltd
+PRD-124,Dexamethasone 8mg/2ml Ampoule,Analgesics,B003,Branch C — Maitama,11,4,7,380,580,4180,6380,2025-02-16,47,High,AT RISK,Apex Pharmaceuticals
+PRD-125,Adrenaline 1mg/ml Ampoule,Analgesics,B003,Branch C — Maitama,9,3,6,420,640,3780,5760,2025-02-11,42,High,AT RISK,Emeka Pharma Distributors
+PRD-126,Vitamin K 10mg/ml Ampoule,Vitamins & Supplements,B003,Branch C — Maitama,10,3,7,280,430,2800,4300,2025-01-26,26,High,AT RISK,Nasco Healthcare Supplies
+PRD-127,Atropine 1mg/ml Ampoule,Analgesics,B003,Branch C — Maitama,10,3,7,350,540,3500,5400,2025-01-24,24,High,AT RISK,Medline Nigeria Ltd
+PRD-128,Amoxicillin + Clav Susp 457mg/5ml,Antibiotics,B003,Branch C — Maitama,27,12,15,480,720,12960,19440,2025-02-15,46,High,AT RISK,Apex Pharmaceuticals
+PRD-129,Azithromycin Susp 200mg/5ml,Antibiotics,B003,Branch C — Maitama,22,10,12,380,570,8360,12540,2025-02-14,45,High,AT RISK,Emeka Pharma Distributors
+PRD-130,Ibuprofen Susp 100mg/5ml,Analgesics,B003,Branch C — Maitama,41,15,26,220,330,9020,13530,2025-01-24,24,High,AT RISK,Nasco Healthcare Supplies
+PRD-131,Paracetamol Susp 250mg/5ml,Analgesics,B003,Branch C — Maitama,75,20,55,150,200,11250,15000,2025-02-17,48,High,AT RISK,Medline Nigeria Ltd
+PRD-132,Chlorphenamine Syrup 2mg/5ml,Analgesics,B003,Branch C — Maitama,45,15,30,180,265,8100,11925,2025-02-13,44,High,AT RISK,Apex Pharmaceuticals
+PRD-133,Promethazine Syrup 5mg/5ml 100ml,Analgesics,B003,Branch C — Maitama,42,12,30,220,330,9240,13860,2025-02-17,48,High,AT RISK,Emeka Pharma Distributors
+PRD-134,Domperidone Susp 5mg/5ml,Gastrointestinal,B003,Branch C — Maitama,34,10,24,260,390,8840,13260,2025-02-09,40,High,AT RISK,Nasco Healthcare Supplies
+PRD-135,Omeprazole Susp 10mg/5ml,Gastrointestinal,B003,Branch C — Maitama,31,8,23,380,570,11780,17670,2025-02-18,49,High,AT RISK,Medline Nigeria Ltd
+PRD-136,Zinc Susp 10mg/5ml 60ml,Vitamins & Supplements,B003,Branch C — Maitama,46,15,31,180,260,8280,11960,2025-02-14,45,High,AT RISK,Apex Pharmaceuticals
+PRD-137,Multivitamin Drops 15ml,Vitamins & Supplements,B003,Branch C — Maitama,27,10,17,280,410,7560,11070,2025-02-03,34,High,AT RISK,Emeka Pharma Distributors
+PRD-138,Clotrimazole Cream 15g,Antibiotics,B003,Branch C — Maitama,23,20,3,180,300,4140,6900,2026-03-07,431,Low,SAFE,Nasco Healthcare Supplies
+PRD-139,Betamethasone Cream 15g,Analgesics,B003,Branch C — Maitama,34,15,19,220,370,7480,12580,2026-12-19,718,Low,SAFE,Medline Nigeria Ltd
+PRD-140,Gentamicin Eye Drops 5ml,Antibiotics,B003,Branch C — Maitama,21,12,9,150,250,3150,5250,2025-05-26,146,Medium,SAFE,Apex Pharmaceuticals
+PRD-141,Chloramphenicol Eye Drops 5ml,Antibiotics,B003,Branch C — Maitama,22,15,7,130,215,2860,4730,2025-09-20,263,Medium,SAFE,Emeka Pharma Distributors
+PRD-142,Diclofenac Gel 30g,Analgesics,B003,Branch C — Maitama,25,18,7,280,460,7000,11500,2025-11-19,323,Low,SAFE,Nasco Healthcare Supplies
+PRD-143,Ketoconazole Shampoo 60ml,Antibiotics,B003,Branch C — Maitama,11,10,1,380,620,4180,6820,2026-04-06,461,Low,SAFE,Medline Nigeria Ltd
+PRD-144,Hydrocortisone Cream 15g,Analgesics,B003,Branch C — Maitama,21,18,3,160,265,3360,5565,2025-12-12,346,Low,SAFE,Apex Pharmaceuticals
+PRD-145,Miconazole Cream 15g,Antibiotics,B003,Branch C — Maitama,27,12,15,190,315,5130,8505,2026-09-09,617,Low,SAFE,Emeka Pharma Distributors
+PRD-146,Albendazole 400mg (Tablet),Antibiotics,B003,Branch C — Maitama,19,22,-3,80,130,1520,2470,2026-01-17,382,Low,SAFE,Nasco Healthcare Supplies
+PRD-147,Mebendazole 100mg (Strip 6),Antibiotics,B003,Branch C — Maitama,42,25,17,65,105,2730,4410,2025-09-06,249,Low,SAFE,Medline Nigeria Ltd
+PRD-148,Praziquantel 600mg (Strip 6),Antibiotics,B003,Branch C — Maitama,15,8,7,280,460,4200,6900,2026-02-19,415,Low,SAFE,Apex Pharmaceuticals
+PRD-149,Ivermectin 12mg (Tablet),Antibiotics,B003,Branch C — Maitama,14,10,4,180,295,2520,4130,2025-12-20,354,Low,SAFE,Emeka Pharma Distributors
+PRD-150,Artemether+Lumefantrine (Strip 24),Antibiotics,B003,Branch C — Maitama,21,16,5,480,780,10080,16380,2026-10-21,659,Low,SAFE,Nasco Healthcare Supplies
+PRD-151,Chloroquine 250mg (Strip 10),Antibiotics,B003,Branch C — Maitama,25,12,13,90,145,2250,3625,2026-11-28,697,Low,SAFE,Medline Nigeria Ltd
+PRD-152,Quinine 300mg (Strip 10),Antibiotics,B003,Branch C — Maitama,19,10,9,110,180,2090,3420,2026-05-29,514,Low,SAFE,Apex Pharmaceuticals
+PRD-153,Primaquine 15mg (Strip 14),Antibiotics,B003,Branch C — Maitama,9,8,1,140,225,1260,2025,2026-07-13,559,Low,SAFE,Emeka Pharma Distributors
+PRD-154,Digoxin 0.25mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,28,12,16,180,310,5040,8680,2025-09-11,254,Low,SAFE,Nasco Healthcare Supplies
+PRD-155,Amiodarone 200mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,12,8,4,580,990,6960,11880,2025-10-22,295,Low,SAFE,Medline Nigeria Ltd
+PRD-156,Warfarin 5mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,21,10,11,210,360,4410,7560,2026-06-16,532,Low,SAFE,Apex Pharmaceuticals
+PRD-157,Clopidogrel 75mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,32,14,18,380,650,12160,20800,2025-09-08,251,Low,SAFE,Emeka Pharma Distributors
+PRD-158,Rosuvastatin 10mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,37,16,21,420,720,15540,26640,2025-09-10,253,Low,SAFE,Nasco Healthcare Supplies
+PRD-159,Atorvastatin 20mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,23,18,5,360,615,8280,14145,2025-10-25,298,Low,SAFE,Medline Nigeria Ltd
+PRD-160,Atorvastatin 40mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,14,14,0,440,755,6160,10570,2025-11-02,306,Low,SAFE,Medline Nigeria Ltd
+PRD-161,Simvastatin 20mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,24,15,9,290,500,6960,12000,2026-09-11,619,Low,SAFE,Apex Pharmaceuticals
+PRD-162,Ezetimibe 10mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,20,9,11,480,820,9600,16400,2026-05-23,508,Low,SAFE,Emeka Pharma Distributors
+PRD-163,Isosorbide Mononitrate 20mg Str28,Antihypertensives,B003,Branch C — Maitama,11,11,0,230,395,2530,4345,2025-09-16,259,Low,SAFE,Nasco Healthcare Supplies
+PRD-164,Enalapril 5mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,21,13,8,240,415,5040,8715,2026-09-02,610,Low,SAFE,Emeka Pharma Distributors
+PRD-165,Enalapril 10mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,20,11,9,290,500,5800,10000,2026-05-31,516,Low,SAFE,Emeka Pharma Distributors
+PRD-166,Enalapril 20mg (Strip of 28),Antihypertensives,B003,Branch C — Maitama,7,9,-2,350,600,2450,4200,2026-03-05,429,Low,SAFE,Nasco Healthcare Supplies
+PRD-167,Perindopril 4mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,13,8,5,410,700,5330,9100,2026-06-08,524,Low,SAFE,Medline Nigeria Ltd
+PRD-168,Candesartan 8mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,6,8,-2,460,790,2760,4740,2025-11-16,320,Low,SAFE,Apex Pharmaceuticals
+PRD-169,Candesartan 16mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,16,7,9,520,890,8320,14240,2026-04-23,478,Low,SAFE,Apex Pharmaceuticals
+PRD-170,Irbesartan 150mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,13,7,6,490,840,6370,10920,2026-01-11,376,Low,SAFE,Emeka Pharma Distributors
+PRD-171,Chlorthalidone 25mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,17,10,7,200,345,3400,5865,2026-02-05,401,Low,SAFE,Nasco Healthcare Supplies
+PRD-172,Prazosin 1mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,11,9,2,180,310,1980,3410,2026-03-05,429,Low,SAFE,Medline Nigeria Ltd
+PRD-173,Doxazosin 4mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,11,7,4,380,650,4180,7150,2026-01-23,388,Low,SAFE,Apex Pharmaceuticals
+PRD-174,Nifedipine 10mg Retard (Strip 28),Antihypertensives,B003,Branch C — Maitama,14,12,2,250,430,3500,6020,2026-06-21,537,Low,SAFE,Emeka Pharma Distributors
+PRD-175,Felodipine 5mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,10,7,3,420,720,4200,7200,2025-11-18,322,Low,SAFE,Nasco Healthcare Supplies
+PRD-176,Diltiazem 60mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,16,8,8,310,530,4960,8480,2026-08-11,588,Low,SAFE,Medline Nigeria Ltd
+PRD-177,Verapamil 80mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,16,7,9,280,480,4480,7680,2026-05-17,502,Low,SAFE,Apex Pharmaceuticals
+PRD-178,Propranolol 40mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,17,14,3,160,275,2720,4675,2026-10-22,660,Low,SAFE,Emeka Pharma Distributors
+PRD-179,Nebivolol 5mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,7,6,1,490,840,3430,5880,2026-07-08,554,Low,SAFE,Nasco Healthcare Supplies
+PRD-180,Labetalol 100mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,7,7,0,330,565,2310,3955,2026-06-24,540,Low,SAFE,Medline Nigeria Ltd
+PRD-181,Glyceryl Trinitrate 0.5mg Str50,Antihypertensives,B003,Branch C — Maitama,20,9,11,280,480,5600,9600,2026-05-09,494,Low,SAFE,Apex Pharmaceuticals
+PRD-182,Ivabradine 5mg (Strip 28),Antihypertensives,B003,Branch C — Maitama,8,5,3,680,1160,5440,9280,2026-12-27,726,Low,SAFE,Emeka Pharma Distributors
+PRD-183,Sacubitril+Valsartan 50mg Str28,Antihypertensives,B003,Branch C — Maitama,3,4,-1,1800,3000,5400,9000,2026-01-23,388,Low,SAFE,Nasco Healthcare Supplies
+PRD-184,Phenytoin 100mg (Strip 28),Gastrointestinal,B003,Branch C — Maitama,16,7,9,160,275,2560,4400,2026-07-01,547,Low,SAFE,Medline Nigeria Ltd
+PRD-185,Carbamazepine 200mg (Strip 28),Gastrointestinal,B003,Branch C — Maitama,13,8,5,180,310,2340,4030,2026-06-28,544,Low,SAFE,Apex Pharmaceuticals
+PRD-186,Valproic Acid 200mg (Strip 30),Gastrointestinal,B003,Branch C — Maitama,8,6,2,220,375,1760,3000,2025-09-12,255,Low,SAFE,Emeka Pharma Distributors
+PRD-187,Levetiracetam 500mg (Strip 30),Gastrointestinal,B003,Branch C — Maitama,6,5,1,680,1160,4080,6960,2026-01-25,390,Low,SAFE,Nasco Healthcare Supplies
+PRD-188,Pregabalin 75mg (Strip 14),Gastrointestinal,B003,Branch C — Maitama,12,8,4,480,820,5760,9840,2026-02-24,420,Low,SAFE,Medline Nigeria Ltd
+PRD-189,Gabapentin 300mg (Strip 14),Gastrointestinal,B003,Branch C — Maitama,11,7,4,380,650,4180,7150,2025-11-15,319,Low,SAFE,Apex Pharmaceuticals
+PRD-190,Tramadol + Paracetamol (Strip 10),Analgesics,B003,Branch C — Maitama,15,14,1,200,290,3000,4350,2026-02-02,398,Low,SAFE,Emeka Pharma Distributors
+PRD-191,Muscle Rub Cream 50g,Analgesics,B003,Branch C — Maitama,17,11,6,350,580,5950,9860,2026-01-28,393,Low,SAFE,Medline Nigeria Ltd
+PRD-192,Voltaren Gel 100g,Analgesics,B003,Branch C — Maitama,14,8,6,580,950,8120,13300,2026-01-12,377,Low,SAFE,Apex Pharmaceuticals
+PRD-193,Antihistamine Loratadine 10mg Str10,Vitamins & Supplements,B003,Branch C — Maitama,30,28,2,80,130,2400,3900,2026-10-21,659,Low,SAFE,Emeka Pharma Distributors
+PRD-194,Cetirizine 10mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,34,30,4,75,120,2550,4080,2026-12-13,712,Low,SAFE,Nasco Healthcare Supplies
+PRD-195,Chlorphenamine 4mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,79,32,47,55,88,4345,6952,2026-07-29,575,Low,SAFE,Medline Nigeria Ltd
+PRD-196,Fexofenadine 120mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,19,12,7,180,290,3420,5510,2026-09-17,625,Low,SAFE,Medline Nigeria Ltd
+PRD-197,Montelukast 10mg (Strip 28),Vitamins & Supplements,B003,Branch C — Maitama,22,10,12,380,615,8360,13530,2026-08-04,581,Low,SAFE,Apex Pharmaceuticals
+PRD-198,Salbutamol Inhaler 100mcg,Vitamins & Supplements,B003,Branch C — Maitama,7,8,-1,680,1100,4760,7700,2025-04-20,110,Medium,SAFE,Nasco Healthcare Supplies
+PRD-199,N-Acetylcysteine 600mg (Strip 10),Vitamins & Supplements,B003,Branch C — Maitama,10,9,1,280,455,2800,4550,2025-11-11,315,Low,SAFE,Apex Pharmaceuticals
+PRD-200,Bromhexine 8mg (Strip 20),Vitamins & Supplements,B003,Branch C — Maitama,15,14,1,90,146,1350,2190,2026-04-24,479,Low,SAFE,Emeka Pharma Distributors
+PRD-201,Guaifenesin Syrup 100mg/5ml,Vitamins & Supplements,B003,Branch C — Maitama,20,12,8,220,357,4400,7140,2025-10-21,294,Medium,SAFE,Nasco Healthcare Supplies
+PRD-202,Oral Glucose 25g Sachet,Vitamins & Supplements,B003,Branch C — Maitama,11,10,1,80,116,880,1276,2025-05-13,133,Medium,SAFE,Emeka Pharma Distributors
+PRD-203,Sodium Bicarbonate 600mg (Strip10),Gastrointestinal,B003,Branch C — Maitama,23,12,11,60,87,1380,2001,2026-04-11,466,Low,SAFE,Apex Pharmaceuticals
+PRD-204,Ursodeoxycholic Acid 250mg Str28,Gastrointestinal,B003,Branch C — Maitama,9,5,4,480,820,4320,7380,2026-02-17,413,Low,SAFE,Emeka Pharma Distributors
+PRD-205,Metronidazole Gel 0.75% 30g,Antibiotics,B003,Branch C — Maitama,14,7,7,250,415,3500,5810,2026-07-21,567,Low,SAFE,Medline Nigeria Ltd
+PRD-206,Povidone Iodine Solution 100ml,Antibiotics,B003,Branch C — Maitama,17,9,8,280,406,4760,6902,2025-08-21,233,Low,SAFE,Apex Pharmaceuticals
+PRD-207,Fluconazole Susp 50mg/5ml,Antibiotics,B003,Branch C — Maitama,13,6,7,380,570,4940,7410,2025-07-24,205,Medium,SAFE,Emeka Pharma Distributors
+PRD-208,Ampicillin 500mg Capsule (Strip15),Antibiotics,B003,Branch C — Maitama,12,12,0,150,225,1800,2700,2026-08-28,605,Low,SAFE,Nasco Healthcare Supplies
+PRD-209,Ofloxacin 400mg (Strip 10),Antibiotics,B003,Branch C — Maitama,14,9,5,280,420,3920,5880,2025-08-23,235,Low,SAFE,Medline Nigeria Ltd
+PRD-210,Sparfloxacin 200mg (Strip 6),Antibiotics,B003,Branch C — Maitama,14,7,7,320,480,4480,6720,2026-03-17,441,Low,SAFE,Apex Pharmaceuticals
+PRD-211,Norfloxacin 400mg (Strip 10),Antibiotics,B003,Branch C — Maitama,16,8,8,220,330,3520,5280,2026-08-28,605,Low,SAFE,Emeka Pharma Distributors
+PRD-212,Furazolidone 100mg (Strip 10),Antibiotics,B003,Branch C — Maitama,6,7,-1,110,165,660,990,2026-06-16,532,Low,SAFE,Nasco Healthcare Supplies
+PRD-213,Secnidazole 1g (Strip 2),Antibiotics,B003,Branch C — Maitama,11,8,3,180,270,1980,2970,2026-05-13,498,Low,SAFE,Medline Nigeria Ltd
+PRD-214,Ornidazole 500mg (Strip 10),Antibiotics,B003,Branch C — Maitama,5,6,-1,150,225,750,1125,2026-06-03,519,Low,SAFE,Apex Pharmaceuticals
+PRD-215,Doxycycline 200mg (Capsule),Antibiotics,B003,Branch C — Maitama,10,5,5,140,210,1400,2100,2026-12-24,723,Low,SAFE,Emeka Pharma Distributors
+PRD-216,Rifampicin 300mg (Strip 10),Antibiotics,B003,Branch C — Maitama,5,4,1,280,420,1400,2100,2025-10-25,298,Low,SAFE,Nasco Healthcare Supplies
+PRD-217,Isoniazid 300mg (Strip 28),Antibiotics,B003,Branch C — Maitama,4,3,1,120,180,480,720,2025-08-16,228,Low,SAFE,Medline Nigeria Ltd
+PRD-218,Pyrazinamide 500mg (Strip 28),Antibiotics,B003,Branch C — Maitama,4,3,1,150,225,600,900,2026-11-17,686,Low,SAFE,Apex Pharmaceuticals
+PRD-219,Ethambutol 400mg (Strip 28),Antibiotics,B003,Branch C — Maitama,3,3,0,130,195,390,585,2026-04-08,463,Low,SAFE,Emeka Pharma Distributors
+PRD-220,Glibenclamide 2.5mg (Strip 28),Gastrointestinal,B003,Branch C — Maitama,24,14,10,95,165,2280,3960,2025-11-06,310,Low,SAFE,Nasco Healthcare Supplies
